@@ -1,0 +1,1001 @@
+job_id,user,job_name,tags,status,duration,submitted,sequence_id,cpu,ram,gpu
+job_0089,joshualuna,Database Backup,"backup,encryption,geospatial,benchmarking,database",failed,60,2024-03-18,seq_118,4,16,4
+job_0338,clong,Web Scraping,"automation,deployment,streaming,llm,scraping",completed,240,2024-03-18,seq_090,2,8,4
+job_0027,cbell,Model Evaluation,"ml,evaluation,image,geospatial,api",running,180,2024-03-18,seq_128,2,64,0
+job_0026,owilliams,Video Rendering,"video,rendering,image,llm,gpu",completed,60,2024-03-18,seq_027,4,32,2
+job_0519,lreid,Report Generation,"geospatial,indexing,report,visualization",completed,240,2024-03-18,seq_030,8,16,1
+job_0053,christopher96,Web Scraping,"pipeline,scraping,automation",completed,120,2024-03-18,seq_053,4,8,1
+job_0572,owilliams,ETL Job,"etl,data pipeline,compression,nlp",completed,120,2024-03-18,seq_128,8,64,2
+job_0783,joshualuna,Model Evaluation,"ml,evaluation,encryption,cloud",pending,30,2024-03-18,seq_012,4,32,4
+job_0396,ian60,Log Analysis,"deployment,benchmarking,logs,monitoring",completed,30,2024-03-18,seq_151,4,32,1
+job_0915,christopher96,Web Scraping,"automation,testing,cloud,indexing,scraping",completed,60,2024-03-18,seq_112,8,64,0
+job_0316,jrusso,ML Model Training,"ml,training,image,gpu",completed,180,2024-03-18,seq_107,8,64,1
+job_0979,gateschristopher,ML Model Training,"ml,training,image,streaming,llm,gpu",failed,240,2024-03-18,seq_035,16,64,1
+job_0223,cory15,Report Generation,"report,forecasting,benchmarking,visualization,pipeline",completed,120,2024-03-18,seq_090,8,16,1
+job_0698,burkeraymond,Database Backup,"encryption,backup,database",completed,60,2024-03-18,seq_041,2,8,0
+job_0215,joshualuna,ML Model Training,"ml,training,image,gpu",running,30,2024-03-18,seq_128,4,32,1
+job_0954,burkeraymond,Security Scan,"nlp,security,scan,indexing",completed,30,2024-03-18,seq_040,2,16,4
+job_0435,clong,Database Backup,"encryption,backup,database",completed,180,2024-03-18,seq_101,16,32,2
+job_0065,parsonsmackenzie,ETL Job,"etl,streaming,testing,data pipeline",running,180,2024-03-18,seq_193,8,32,2
+job_0929,joshualuna,Report Generation,"report,compression,geospatial,streaming,visualization",completed,120,2024-03-18,seq_056,2,32,1
+job_0648,morganlinda,Database Backup,"backup,llm,database,api",running,240,2024-03-18,seq_068,16,64,2
+job_0287,danieljones,Video Rendering,"video,rendering,deployment,cloud,indexing,gpu",completed,30,2024-03-18,seq_176,2,8,4
+job_0536,owilliams,Log Analysis,"logs,llm,indexing,monitoring",completed,30,2024-03-18,seq_097,4,64,2
+job_0938,cameronstephen,ML Model Training,"ml,training,geospatial,gpu",failed,240,2024-03-18,seq_005,4,32,1
+job_0678,burkeraymond,Video Rendering,"video,rendering,encryption,deployment,api,gpu",failed,60,2024-03-18,seq_103,4,64,2
+job_0280,gateschristopher,Security Scan,"security,scan,llm",completed,30,2024-03-18,seq_106,16,64,2
+job_0047,cory15,ML Model Training,"ml,training,forecasting,api,pipeline,gpu",completed,30,2024-03-18,seq_137,4,8,4
+job_0963,gateschristopher,Web Scraping,"scraping,automation,cloud",running,30,2024-03-18,seq_144,2,32,1
+job_0312,wongkenneth,Log Analysis,"logs,monitoring,encryption,deployment,indexing",completed,180,2024-03-18,seq_190,16,64,1
+job_0002,wongkenneth,ETL Job,"etl,deployment,data pipeline",completed,180,2024-03-18,seq_050,16,64,4
+job_0421,cory15,Report Generation,"report,testing,llm,visualization,api",failed,60,2024-03-18,seq_044,2,16,2
+job_0067,morganlinda,Log Analysis,"testing,image,logs,monitoring",running,60,2024-03-18,seq_034,2,32,4
+job_0073,cbell,Log Analysis,"benchmarking,logs,monitoring",running,180,2024-03-18,seq_170,4,32,2
+job_0195,clong,Video Rendering,"video,rendering,deployment,indexing,gpu",running,180,2024-03-18,seq_173,8,32,4
+job_0625,parsonsmackenzie,Web Scraping,"automation,encryption,llm,cloud,scraping",completed,240,2024-03-18,seq_026,16,32,1
+job_0967,morganlinda,ETL Job,"etl,forecasting,indexing,data pipeline",completed,30,2024-03-18,seq_120,2,32,1
+job_0004,parsonsmackenzie,Video Rendering,"compression,video,rendering,nlp,indexing,gpu",completed,60,2024-03-18,seq_172,4,16,1
+job_0989,lreid,ETL Job,"etl,forecasting,benchmarking,data pipeline",completed,180,2024-03-18,seq_153,2,16,2
+job_0766,lreid,ML Model Training,"ml,training,testing,gpu",running,60,2024-03-18,seq_141,2,32,1
+job_0453,cory15,Web Scraping,"automation,geospatial,testing,llm,scraping",pending,120,2024-03-18,seq_197,4,8,1
+job_0712,hannahfoster,ML Model Training,"ml,training,deployment,streaming,cloud,gpu",completed,120,2024-03-18,seq_080,8,8,2
+job_0070,cbell,Web Scraping,"nlp,scraping,automation",completed,120,2024-03-18,seq_145,16,16,1
+job_0816,gmitchell,ML Model Training,"ml,pipeline,training,gpu",completed,120,2024-03-18,seq_113,16,64,1
+job_0432,burkeraymond,Report Generation,"report,api,visualization",completed,120,2024-03-18,seq_167,2,8,4
+job_0671,hannahfoster,ML Model Training,"ml,training,forecasting,api,gpu,cloud",completed,180,2024-03-18,seq_132,16,64,2
+job_0540,cameronstephen,Database Backup,"image,backup,database",completed,240,2024-03-18,seq_011,8,64,0
+job_0523,cbell,Video Rendering,"rendering,pipeline,gpu,video",failed,180,2024-03-18,seq_064,16,16,1
+job_0870,joshualuna,Log Analysis,"pipeline,logs,llm,monitoring",completed,180,2024-03-18,seq_118,16,32,1
+job_0718,clong,Video Rendering,"nlp,rendering,gpu,video",completed,60,2024-03-18,seq_047,4,16,4
+job_0777,cory15,Model Evaluation,"ml,evaluation,deployment,benchmarking,api",failed,180,2024-03-18,seq_114,16,16,0
+job_0583,clong,Log Analysis,"testing,forecasting,logs,monitoring",completed,180,2024-03-18,seq_031,8,64,4
+job_0866,lreid,ML Model Training,"ml,forecasting,training,gpu",completed,180,2024-03-18,seq_072,8,8,1
+job_0146,christopher96,Video Rendering,"video,rendering,image,api,nlp,gpu",completed,60,2024-03-18,seq_023,16,64,2
+job_0705,lreid,Web Scraping,"automation,image,streaming,api,scraping",completed,60,2024-03-18,seq_112,2,16,0
+job_0802,christopher96,Data Preprocessing,"streaming,data,llm,preprocessing",completed,60,2024-03-18,seq_025,2,32,4
+job_0867,michaelpatterson,Data Preprocessing,"testing,indexing,data,preprocessing",completed,240,2024-03-18,seq_063,8,32,4
+job_0741,cameronstephen,ML Model Training,"ml,training,streaming,nlp,indexing,gpu",completed,30,2024-03-18,seq_018,16,16,2
+job_0754,christopher96,Data Preprocessing,"data,preprocessing,forecasting,api,pipeline",completed,120,2024-03-18,seq_012,16,32,4
+job_0175,gateschristopher,Security Scan,"compression,testing,scan,llm,security",completed,180,2024-03-18,seq_043,8,32,2
+job_0138,christopher96,Report Generation,"image,report,visualization",completed,30,2024-03-18,seq_189,8,64,1
+job_0574,morganlinda,Data Preprocessing,"forecasting,streaming,data,preprocessing",completed,30,2024-03-18,seq_038,2,16,0
+job_0122,morganlinda,Model Evaluation,"ml,evaluation,benchmarking,api",completed,180,2024-03-18,seq_128,16,8,2
+job_0815,morganlinda,Web Scraping,"forecasting,scraping,automation,cloud",completed,120,2024-03-18,seq_158,2,64,4
+job_0052,parsonsmackenzie,Log Analysis,"nlp,logs,monitoring",completed,60,2024-03-18,seq_086,2,16,1
+job_0307,lreid,Log Analysis,"logs,llm,monitoring",completed,180,2024-03-18,seq_117,16,16,1
+job_0413,clong,ML Model Training,"ml,training,llm,nlp,pipeline,gpu",running,240,2024-03-18,seq_133,8,64,1
+job_0231,lreid,Data Preprocessing,"data,preprocessing,forecasting,api,nlp",completed,30,2024-03-18,seq_049,4,8,1
+job_0622,christopher96,ML Model Training,"ml,training,gpu,compression",completed,180,2024-03-18,seq_055,16,32,1
+job_0173,christopher96,Report Generation,"llm,report,compression,visualization",completed,180,2024-03-18,seq_125,8,16,2
+job_0290,joshualuna,Security Scan,"security,image,scan",completed,60,2024-03-18,seq_063,8,32,0
+job_0210,hannahfoster,ETL Job,"etl,benchmarking,data pipeline,api",completed,240,2024-03-18,seq_134,8,8,4
+job_0054,wongkenneth,Database Backup,"backup,compression,database",running,30,2024-03-18,seq_091,2,64,4
+job_0005,lreid,ML Model Training,"ml,training,deployment,gpu",completed,30,2024-03-18,seq_097,4,32,1
+job_0093,ian60,ML Model Training,"ml,training,testing,gpu",completed,240,2024-03-18,seq_037,8,16,1
+job_0274,joshualuna,Model Evaluation,"ml,evaluation,indexing",completed,240,2024-03-18,seq_155,4,32,0
+job_0895,lreid,Report Generation,"report,encryption,geospatial,visualization,indexing",completed,120,2024-03-18,seq_124,2,32,2
+job_0227,christopher96,Data Preprocessing,"encryption,indexing,data,preprocessing",completed,30,2024-03-18,seq_005,8,32,1
+job_0544,ian60,Security Scan,"forecasting,security,scan,streaming",completed,240,2024-03-18,seq_149,16,8,1
+job_0931,burkeraymond,Database Backup,"deployment,forecasting,backup,database",failed,30,2024-03-18,seq_054,4,8,1
+job_0186,gateschristopher,ETL Job,"etl,streaming,testing,data pipeline",completed,180,2024-03-18,seq_047,4,16,0
+job_0332,ian60,Security Scan,"encryption,security,scan",completed,180,2024-03-18,seq_118,4,8,1
+job_0547,ian60,Web Scraping,"streaming,testing,scraping,automation",completed,240,2024-03-18,seq_075,2,64,2
+job_0069,clong,Web Scraping,"forecasting,scraping,automation",completed,30,2024-03-18,seq_195,8,64,2
+job_0737,danieljones,Security Scan,"security,scan,llm",running,30,2024-03-18,seq_024,4,64,1
+job_0790,nicoleortiz,Web Scraping,"testing,scraping,automation,api",completed,120,2024-03-18,seq_036,4,16,0
+job_0351,nicoleortiz,Video Rendering,"video,rendering,image,indexing,gpu",completed,60,2024-03-18,seq_171,16,16,4
+job_0199,gmitchell,ETL Job,"etl,image,data pipeline,deployment,llm",running,180,2024-03-18,seq_012,16,64,4
+job_0485,danieljones,Data Preprocessing,"forecasting,image,data,preprocessing",completed,30,2024-03-18,seq_137,4,64,0
+job_0640,christopher96,Log Analysis,"pipeline,logs,geospatial,monitoring",completed,60,2024-03-18,seq_172,2,32,4
+job_0725,michaelpatterson,Data Preprocessing,"data,preprocessing,forecasting,testing,nlp",completed,120,2024-03-18,seq_054,2,16,0
+job_0884,morganlinda,Model Evaluation,"ml,evaluation,compression,forecasting,image",failed,120,2024-03-18,seq_139,8,64,0
+job_0178,hannahfoster,Log Analysis,"logs,cloud,monitoring",failed,60,2024-03-18,seq_173,16,8,0
+job_0892,wongkenneth,Report Generation,"nlp,report,compression,visualization",completed,180,2024-03-18,seq_200,16,64,2
+job_0985,ian60,Web Scraping,"scraping,automation,api",completed,180,2024-03-18,seq_142,4,32,0
+job_0958,owilliams,Web Scraping,"automation,geospatial,testing,llm,scraping",completed,180,2024-03-18,seq_153,16,8,4
+job_0690,gmitchell,Security Scan,"nlp,security,scan,testing",completed,180,2024-03-18,seq_172,8,64,2
+job_0496,morganlinda,Log Analysis,"testing,logs,monitoring",completed,240,2024-03-18,seq_113,16,8,4
+job_0781,morganlinda,ML Model Training,"ml,training,encryption,gpu",completed,240,2024-03-18,seq_050,4,16,2
+job_0284,hannahfoster,Database Backup,"geospatial,backup,database",completed,240,2024-03-18,seq_042,8,32,0
+job_0541,cbell,Database Backup,"encryption,testing,backup,database",completed,60,2024-03-18,seq_122,4,32,1
+job_0687,morganlinda,Log Analysis,"logs,llm,api,monitoring",pending,120,2024-03-18,seq_010,8,32,1
+job_0469,cbell,Database Backup,"benchmarking,backup,database",failed,30,2024-03-18,seq_064,8,16,4
+job_0787,danieljones,Report Generation,"benchmarking,report,api,visualization",completed,120,2024-03-18,seq_143,16,8,2
+job_0830,wongkenneth,Data Preprocessing,"streaming,indexing,data,preprocessing",completed,30,2024-03-18,seq_146,4,64,1
+job_0580,hannahfoster,Report Generation,"nlp,report,cloud,visualization",completed,240,2024-03-18,seq_185,16,64,2
+job_0996,ian60,Security Scan,"testing,security,scan,geospatial",completed,120,2024-03-18,seq_120,16,16,0
+job_0881,gmitchell,Database Backup,"benchmarking,backup,database",running,30,2024-03-18,seq_004,8,64,0
+job_0268,hannahfoster,Report Generation,"report,cloud,visualization",completed,60,2024-03-18,seq_120,16,16,1
+job_0038,danieljones,Database Backup,"backup,forecasting,image,benchmarking,database",completed,240,2024-03-18,seq_016,16,32,4
+job_0537,joshualuna,Report Generation,"forecasting,report,api,visualization",running,180,2024-03-18,seq_080,16,64,4
+job_0829,gmitchell,Report Generation,"benchmarking,report,cloud,visualization",running,60,2024-03-18,seq_108,8,16,0
+job_0046,burkeraymond,Security Scan,"security,scan,geospatial",pending,180,2024-03-18,seq_199,4,16,4
+job_0795,cameronstephen,ML Model Training,"ml,training,image,gpu",running,240,2024-03-18,seq_107,16,8,4
+job_0174,christopher96,ETL Job,"etl,streaming,benchmarking,data pipeline",completed,30,2024-03-18,seq_079,16,32,0
+job_0074,nicoleortiz,Model Evaluation,"ml,evaluation,testing",pending,240,2024-03-18,seq_037,16,32,0
+job_0524,christopher96,Log Analysis,"deployment,logs,llm,monitoring",completed,60,2024-03-18,seq_198,8,16,2
+job_0168,wongkenneth,Video Rendering,"video,rendering,deployment,testing,cloud,gpu",completed,60,2024-03-18,seq_040,4,8,2
+job_0336,nicoleortiz,Log Analysis,"benchmarking,logs,indexing,monitoring",running,120,2024-03-18,seq_135,4,32,2
+job_0755,burkeraymond,ML Model Training,"ml,forecasting,training,gpu",completed,120,2024-03-18,seq_099,2,32,2
+job_0877,owilliams,ETL Job,"etl,deployment,data pipeline,testing",completed,30,2024-03-18,seq_135,8,16,4
+job_0325,morganlinda,Report Generation,"geospatial,encryption,report,visualization",running,30,2024-03-18,seq_037,2,8,2
+job_0079,lreid,Model Evaluation,"ml,evaluation,image,testing,indexing",completed,120,2024-03-18,seq_015,4,8,4
+job_0294,gmitchell,Database Backup,"deployment,backup,database",failed,180,2024-03-18,seq_039,8,32,0
+job_0593,burkeraymond,Report Generation,"geospatial,report,visualization",completed,120,2024-03-18,seq_164,8,64,1
+job_0603,parsonsmackenzie,Log Analysis,"logs,monitoring,forecasting,benchmarking,pipeline",running,30,2024-03-18,seq_135,8,8,1
+job_0854,gmitchell,Security Scan,"nlp,security,scan,llm",running,120,2024-03-18,seq_023,2,8,2
+job_0570,morganlinda,ETL Job,"etl,data pipeline,compression",failed,240,2024-03-18,seq_043,8,64,0
+job_0799,owilliams,Report Generation,"report,visualization,api,nlp,indexing",completed,30,2024-03-18,seq_116,16,8,1
+job_0460,gmitchell,ETL Job,"etl,geospatial,encryption,data pipeline",completed,120,2024-03-18,seq_101,16,64,1
+job_0080,gmitchell,Security Scan,"security,image,scan",completed,60,2024-03-18,seq_098,8,32,0
+job_0988,wongkenneth,Web Scraping,"automation,encryption,streaming,llm,scraping",completed,30,2024-03-18,seq_200,16,16,2
+job_0337,joshualuna,ML Model Training,"ml,training,geospatial,deployment,indexing,gpu",completed,30,2024-03-18,seq_189,16,64,2
+job_0211,danieljones,ETL Job,"etl,encryption,data pipeline,nlp",failed,120,2024-03-18,seq_007,2,32,1
+job_0263,joshualuna,Database Backup,"backup,deployment,benchmarking,cloud,database",running,60,2024-03-18,seq_088,4,8,0
+job_0056,lreid,Database Backup,"deployment,pipeline,backup,database",completed,180,2024-03-18,seq_078,2,8,0
+job_0346,lreid,Database Backup,"image,backup,database",pending,30,2024-03-18,seq_182,8,32,4
+job_0582,nicoleortiz,Model Evaluation,"ml,evaluation,encryption,nlp,pipeline",completed,120,2024-03-18,seq_136,16,16,0
+job_0680,joshualuna,ML Model Training,"ml,training,compression,testing,gpu",completed,60,2024-03-18,seq_075,4,32,2
+job_0242,michaelpatterson,ETL Job,"etl,encryption,data pipeline",running,180,2024-03-18,seq_120,2,32,4
+job_0422,danieljones,Model Evaluation,"ml,evaluation,benchmarking",completed,240,2024-03-18,seq_032,8,32,4
+job_0769,lreid,Web Scraping,"indexing,scraping,automation",completed,240,2024-03-18,seq_136,2,64,4
+job_0621,cameronstephen,Model Evaluation,"ml,evaluation,nlp",failed,120,2024-03-18,seq_193,4,64,0
+job_0586,ian60,Log Analysis,"logs,monitoring,geospatial,streaming,benchmarking",pending,30,2024-03-18,seq_028,2,16,2
+job_0320,lreid,ML Model Training,"ml,training,gpu,llm",pending,180,2024-03-18,seq_139,8,32,2
+job_0589,jrusso,Video Rendering,"api,video,rendering,cloud,gpu",completed,240,2024-03-18,seq_065,8,16,4
+job_0791,lreid,ML Model Training,"ml,training,compression,cloud,gpu",completed,120,2024-03-18,seq_041,4,16,4
+job_0943,jrusso,ML Model Training,"ml,training,encryption,gpu",completed,60,2024-03-18,seq_097,16,16,1
+job_0181,clong,ETL Job,"etl,data pipeline,compression,nlp",failed,60,2024-03-18,seq_170,4,8,2
+job_0051,cory15,Web Scraping,"nlp,scraping,automation",failed,60,2024-03-18,seq_009,4,32,4
+job_0497,cbell,ML Model Training,"ml,training,deployment,streaming,gpu",completed,180,2024-03-18,seq_104,4,32,2
+job_0743,gateschristopher,Database Backup,"backup,deployment,streaming,cloud,database",completed,60,2024-03-18,seq_028,16,16,2
+job_0991,lreid,Database Backup,"nlp,encryption,backup,database",completed,30,2024-03-18,seq_195,16,16,4
+job_0165,cbell,Log Analysis,"pipeline,logs,monitoring",failed,180,2024-03-18,seq_099,4,8,2
+job_0358,cory15,Report Generation,"benchmarking,report,llm,visualization",completed,120,2024-03-18,seq_077,8,16,1
+job_0906,cbell,Data Preprocessing,"cloud,data,llm,preprocessing",completed,60,2024-03-18,seq_124,8,32,0
+job_0590,gmitchell,Report Generation,"image,report,visualization",completed,240,2024-03-18,seq_026,4,64,2
+job_0241,hannahfoster,Data Preprocessing,"encryption,data,api,preprocessing",running,120,2024-03-18,seq_141,4,64,2
+job_0370,burkeraymond,ML Model Training,"ml,training,benchmarking,testing,gpu",completed,180,2024-03-18,seq_169,8,8,1
+job_0716,jrusso,Database Backup,"backup,image,nlp,pipeline,database",completed,240,2024-03-18,seq_175,16,32,1
+job_0386,michaelpatterson,Data Preprocessing,"pipeline,data,preprocessing",completed,30,2024-03-18,seq_064,4,32,2
+job_0218,gateschristopher,Security Scan,"forecasting,scan,nlp,security,pipeline",failed,30,2024-03-18,seq_189,16,32,4
+job_0126,nicoleortiz,Model Evaluation,"ml,forecasting,evaluation",pending,60,2024-03-18,seq_110,4,32,1
+job_0767,joshualuna,Video Rendering,"rendering,image,gpu,video",pending,120,2024-03-18,seq_122,4,64,2
+job_0945,hannahfoster,Security Scan,"security,scan,llm",completed,180,2024-03-18,seq_178,2,64,0
+job_0745,gmitchell,Web Scraping,"automation,forecasting,image,api,scraping",completed,120,2024-03-18,seq_097,8,32,1
+job_0153,jrusso,Video Rendering,"video,rendering,streaming,testing,benchmarking,gpu",completed,180,2024-03-18,seq_114,4,64,4
+job_0896,michaelpatterson,Log Analysis,"image,logs,indexing,monitoring",completed,180,2024-03-18,seq_096,8,64,1
+job_0222,cbell,Video Rendering,"deployment,rendering,gpu,video",running,120,2024-03-18,seq_129,4,8,4
+job_0764,hannahfoster,Data Preprocessing,"image,data,preprocessing",completed,30,2024-03-18,seq_053,8,16,0
+job_0020,cameronstephen,Web Scraping,"testing,scraping,automation,cloud",failed,60,2024-03-18,seq_184,16,8,2
+job_0252,morganlinda,Data Preprocessing,"deployment,geospatial,data,preprocessing",running,60,2024-03-18,seq_190,4,8,4
+job_0862,cory15,Database Backup,"encryption,indexing,backup,database",completed,180,2024-03-18,seq_119,8,32,1
+job_0838,ian60,Data Preprocessing,"data,preprocessing,deployment,llm,indexing",completed,30,2024-03-18,seq_191,16,64,4
+job_0807,parsonsmackenzie,Security Scan,"geospatial,scan,llm,security,pipeline",completed,30,2024-03-18,seq_001,8,32,1
+job_0401,nicoleortiz,Database Backup,"pipeline,backup,database",running,60,2024-03-18,seq_171,8,32,0
+job_0970,morganlinda,ML Model Training,"ml,training,streaming,api,gpu",failed,180,2024-03-18,seq_066,4,64,1
+job_0456,owilliams,ETL Job,"etl,streaming,encryption,data pipeline",completed,30,2024-03-18,seq_034,16,64,4
+job_0102,wongkenneth,Database Backup,"backup,llm,database",completed,180,2024-03-18,seq_078,16,64,2
+job_0185,morganlinda,Video Rendering,"video,rendering,image,llm,cloud,gpu",completed,60,2024-03-18,seq_149,8,64,4
+job_0129,cbell,ETL Job,"etl,data pipeline,testing,llm,nlp",completed,120,2024-03-18,seq_152,4,16,2
+job_0327,cameronstephen,ML Model Training,"ml,training,deployment,indexing,gpu",running,180,2024-03-17,seq_171,4,32,1
+job_0123,lreid,ML Model Training,"ml,training,streaming,benchmarking,llm,gpu",completed,60,2024-03-17,seq_025,8,32,4
+job_0522,gateschristopher,Data Preprocessing,"testing,data,cloud,preprocessing",completed,30,2024-03-17,seq_152,4,64,1
+job_0105,lreid,Data Preprocessing,"data,compression,preprocessing,deployment,testing",completed,30,2024-03-17,seq_176,16,32,0
+job_0847,burkeraymond,Data Preprocessing,"benchmarking,indexing,data,preprocessing",completed,120,2024-03-17,seq_174,4,16,4
+job_0863,joshualuna,Database Backup,"nlp,backup,database",completed,30,2024-03-17,seq_161,8,8,1
+job_0557,gateschristopher,Model Evaluation,"ml,evaluation,testing",failed,30,2024-03-17,seq_091,8,16,4
+job_0595,danieljones,Database Backup,"pipeline,testing,backup,database",completed,30,2024-03-17,seq_029,8,16,0
+job_0367,cbell,Video Rendering,"video,rendering,llm,nlp,indexing,gpu",completed,240,2024-03-17,seq_138,8,32,2
+job_0656,cbell,ML Model Training,"ml,training,api,pipeline,gpu,cloud",running,240,2024-03-17,seq_133,2,16,4
+job_0096,burkeraymond,Web Scraping,"automation,llm,nlp,indexing,scraping",completed,30,2024-03-17,seq_078,8,8,1
+job_0323,michaelpatterson,Video Rendering,"rendering,streaming,gpu,video",completed,60,2024-03-17,seq_131,16,8,4
+job_0314,christopher96,Security Scan,"testing,security,pipeline,scan",completed,240,2024-03-17,seq_083,4,16,4
+job_0855,morganlinda,ML Model Training,"ml,training,compression,pipeline,indexing,gpu",completed,180,2024-03-17,seq_118,16,32,1
+job_0934,gateschristopher,Model Evaluation,"ml,evaluation,deployment,cloud",failed,240,2024-03-17,seq_060,16,8,2
+job_0118,parsonsmackenzie,Security Scan,"security,scan,geospatial",failed,120,2024-03-17,seq_012,8,16,2
+job_0478,nicoleortiz,Database Backup,"backup,forecasting,image,api,database",pending,240,2024-03-17,seq_144,8,64,1
+job_0824,joshualuna,ML Model Training,"ml,training,image,benchmarking,gpu",completed,240,2024-03-17,seq_120,8,8,2
+job_0768,ian60,Log Analysis,"deployment,logs,monitoring",completed,120,2024-03-17,seq_197,2,32,2
+job_0508,hannahfoster,Model Evaluation,"ml,evaluation,streaming,testing,llm",completed,120,2024-03-17,seq_138,2,32,1
+job_0441,ian60,Report Generation,"report,forecasting,testing,llm,visualization",completed,60,2024-03-17,seq_140,8,16,1
+job_0124,morganlinda,ML Model Training,"ml,training,image,geospatial,benchmarking,gpu",completed,180,2024-03-17,seq_200,4,8,1
+job_0803,hannahfoster,Web Scraping,"nlp,scraping,automation",completed,120,2024-03-17,seq_055,2,32,0
+job_0601,cameronstephen,Report Generation,"report,compression,benchmarking,visualization,nlp",completed,60,2024-03-17,seq_116,2,32,1
+job_0480,lreid,Web Scraping,"automation,forecasting,nlp,indexing,scraping",completed,120,2024-03-17,seq_007,8,8,0
+job_0882,ian60,Data Preprocessing,"nlp,benchmarking,data,preprocessing",pending,240,2024-03-17,seq_186,4,32,2
+job_0630,nicoleortiz,Video Rendering,"video,rendering,image,nlp,pipeline,gpu",completed,30,2024-03-17,seq_060,16,8,2
+job_0400,wongkenneth,Database Backup,"backup,compression,database",running,240,2024-03-17,seq_065,2,64,1
+job_0738,joshualuna,Web Scraping,"scraping,automation,cloud",completed,120,2024-03-17,seq_023,16,64,2
+job_0081,morganlinda,ETL Job,"etl,image,data pipeline,encryption",completed,30,2024-03-17,seq_081,16,32,1
+job_0994,wongkenneth,ML Model Training,"ml,training,testing,llm,gpu",completed,120,2024-03-17,seq_044,2,32,2
+job_0356,owilliams,Web Scraping,"testing,scraping,automation",completed,60,2024-03-17,seq_078,8,32,0
+job_0947,cbell,Security Scan,"security,scan,streaming",completed,240,2024-03-17,seq_063,16,8,2
+job_0853,jrusso,Model Evaluation,"ml,evaluation,streaming,testing,pipeline",completed,180,2024-03-17,seq_081,16,64,0
+job_0935,joshualuna,ML Model Training,"ml,training,deployment,gpu",completed,120,2024-03-17,seq_040,4,16,4
+job_0827,gateschristopher,Video Rendering,"video,rendering,encryption,api,gpu",completed,30,2024-03-17,seq_027,2,64,2
+job_0238,cbell,Web Scraping,"pipeline,scraping,automation",completed,180,2024-03-17,seq_129,4,16,4
+job_0300,cameronstephen,Web Scraping,"llm,compression,scraping,automation",running,60,2024-03-17,seq_032,2,32,4
+job_0517,ian60,Report Generation,"report,geospatial,benchmarking,visualization,pipeline",failed,120,2024-03-17,seq_175,2,32,4
+job_0483,gmitchell,Report Generation,"report,deployment,benchmarking,visualization,cloud",running,30,2024-03-17,seq_089,8,16,4
+job_0188,nicoleortiz,Data Preprocessing,"data,llm,preprocessing",completed,30,2024-03-17,seq_059,4,16,1
+job_0388,ian60,Web Scraping,"automation,encryption,testing,api,scraping",completed,30,2024-03-17,seq_030,4,16,1
+job_0415,jrusso,Report Generation,"report,encryption,visualization,cloud,nlp",completed,240,2024-03-17,seq_136,2,32,0
+job_0734,owilliams,Model Evaluation,"ml,evaluation,geospatial,deployment,pipeline",completed,180,2024-03-17,seq_109,16,32,4
+job_0655,clong,Report Generation,"report,encryption,benchmarking,visualization,cloud",completed,120,2024-03-17,seq_105,2,16,2
+job_0600,danieljones,Model Evaluation,"ml,evaluation,geospatial,testing,cloud",completed,60,2024-03-17,seq_093,2,8,0
+job_0752,cory15,Video Rendering,"video,forecasting,rendering,streaming,gpu",completed,120,2024-03-17,seq_182,8,32,2
+job_0281,jrusso,Model Evaluation,"ml,evaluation,image,deployment,nlp",failed,60,2024-03-17,seq_117,2,8,4
+job_0975,joshualuna,Model Evaluation,"ml,evaluation,testing",completed,180,2024-03-17,seq_123,16,16,4
+job_0635,owilliams,Web Scraping,"forecasting,scraping,automation,streaming",completed,120,2024-03-17,seq_028,8,64,0
+job_0121,cameronstephen,Log Analysis,"image,logs,monitoring",running,240,2024-03-17,seq_134,8,8,2
+job_0746,wongkenneth,Report Generation,"report,compression,geospatial,visualization,cloud",completed,60,2024-03-17,seq_170,16,16,2
+job_0566,owilliams,Log Analysis,"pipeline,logs,monitoring",completed,60,2024-03-17,seq_142,8,16,0
+job_0641,jrusso,Log Analysis,"nlp,logs,monitoring",completed,180,2024-03-17,seq_003,8,32,1
+job_0214,clong,Data Preprocessing,"streaming,pipeline,data,preprocessing",pending,240,2024-03-17,seq_081,16,8,4
+job_0673,nicoleortiz,Database Backup,"backup,deployment,pipeline,indexing,database",completed,120,2024-03-17,seq_167,2,32,4
+job_0018,danieljones,Database Backup,"streaming,backup,database",completed,30,2024-03-17,seq_059,4,64,2
+job_0303,clong,ML Model Training,"ml,training,compression,indexing,gpu",completed,240,2024-03-17,seq_048,8,32,4
+job_0169,danieljones,Report Generation,"streaming,report,visualization",running,60,2024-03-17,seq_118,4,16,0
+job_0890,jrusso,Model Evaluation,"ml,evaluation,compression,llm,indexing",running,30,2024-03-17,seq_025,4,16,1
+job_0106,owilliams,Report Generation,"report,encryption,geospatial,testing,visualization",completed,60,2024-03-17,seq_058,16,32,0
+job_0623,gateschristopher,Model Evaluation,"ml,evaluation,api,cloud,nlp",completed,30,2024-03-17,seq_191,2,32,2
+job_0298,danieljones,Report Generation,"benchmarking,report,api,visualization",failed,60,2024-03-17,seq_069,2,32,2
+job_0366,parsonsmackenzie,Model Evaluation,"ml,evaluation,deployment",completed,120,2024-03-17,seq_066,16,8,0
+job_0817,gateschristopher,Video Rendering,"video,rendering,deployment,llm,gpu",completed,180,2024-03-17,seq_016,4,32,2
+job_0295,lreid,Data Preprocessing,"data,preprocessing,image,deployment,streaming",completed,180,2024-03-17,seq_038,2,64,4
+job_0403,gateschristopher,Data Preprocessing,"encryption,indexing,data,preprocessing",completed,180,2024-03-17,seq_090,8,64,2
+job_0161,jrusso,Data Preprocessing,"data,preprocessing,forecasting,deployment,benchmarking",completed,240,2024-03-17,seq_027,16,64,0
+job_0928,cory15,Report Generation,"deployment,report,visualization",completed,180,2024-03-17,seq_132,4,8,0
+job_0149,cbell,Database Backup,"backup,compression,database",completed,240,2024-03-17,seq_165,4,64,4
+job_0672,michaelpatterson,Data Preprocessing,"data,preprocessing,deployment,streaming,api",completed,180,2024-03-17,seq_025,2,64,1
+job_0048,hannahfoster,Security Scan,"deployment,security,scan,cloud",completed,180,2024-03-17,seq_041,16,8,4
+job_0940,owilliams,Data Preprocessing,"nlp,data,preprocessing",failed,60,2024-03-17,seq_042,4,32,2
+job_0125,burkeraymond,Model Evaluation,"ml,evaluation,image,geospatial,testing",failed,180,2024-03-17,seq_022,2,16,4
+job_0584,jrusso,Video Rendering,"nlp,rendering,gpu,video",failed,120,2024-03-17,seq_166,8,32,1
+job_0913,owilliams,ML Model Training,"ml,training,testing,nlp,gpu",running,60,2024-03-17,seq_038,8,64,2
+job_0310,cameronstephen,Security Scan,"security,scan,streaming,api",completed,30,2024-03-17,seq_040,4,16,4
+job_0694,christopher96,ML Model Training,"ml,training,compression,forecasting,cloud,gpu",completed,120,2024-03-17,seq_088,2,16,4
+job_0030,cbell,Database Backup,"geospatial,encryption,backup,database",completed,30,2024-03-17,seq_090,4,16,1
+job_0286,hannahfoster,Web Scraping,"encryption,scraping,automation",completed,240,2024-03-17,seq_130,4,16,4
+job_0664,clong,ETL Job,"etl,data pipeline,llm,api",completed,120,2024-03-17,seq_122,2,32,0
+job_0374,christopher96,Model Evaluation,"ml,streaming,evaluation,compression",running,180,2024-03-17,seq_165,16,16,1
+job_0873,cameronstephen,Data Preprocessing,"data,preprocessing,deployment,streaming,llm",completed,120,2024-03-17,seq_103,2,8,4
+job_0260,michaelpatterson,Model Evaluation,"ml,evaluation,streaming,llm,api",completed,180,2024-03-17,seq_095,2,64,1
+job_0023,hannahfoster,Video Rendering,"video,rendering,streaming,pipeline,gpu",completed,120,2024-03-17,seq_097,16,32,2
+job_0381,cameronstephen,Web Scraping,"compression,automation,encryption,testing,scraping",completed,30,2024-03-17,seq_186,4,8,1
+job_0156,owilliams,Web Scraping,"benchmarking,scraping,automation",failed,120,2024-03-17,seq_097,16,16,2
+job_0599,michaelpatterson,Data Preprocessing,"forecasting,data,preprocessing",completed,60,2024-03-17,seq_050,2,64,0
+job_0826,cbell,Web Scraping,"forecasting,testing,scraping,automation",completed,120,2024-03-17,seq_181,8,32,4
+job_0499,hannahfoster,Model Evaluation,"ml,evaluation,compression,forecasting,deployment",failed,30,2024-03-17,seq_014,16,8,2
+job_0660,cameronstephen,Data Preprocessing,"encryption,data,preprocessing",pending,180,2024-03-17,seq_113,4,8,4
+job_0832,ian60,ETL Job,"etl,pipeline,data pipeline,compression",completed,60,2024-03-17,seq_188,4,16,0
+job_0831,lreid,Data Preprocessing,"forecasting,data,preprocessing",completed,240,2024-03-17,seq_108,16,64,1
+job_0820,cbell,Data Preprocessing,"data,api,preprocessing",completed,60,2024-03-17,seq_187,8,64,0
+job_0658,cory15,Video Rendering,"video,rendering,streaming,indexing,gpu",completed,30,2024-03-17,seq_022,8,64,2
+job_0901,joshualuna,Log Analysis,"nlp,logs,api,monitoring",completed,240,2024-03-17,seq_061,16,64,4
+job_0643,wongkenneth,Data Preprocessing,"testing,data,preprocessing",completed,120,2024-03-17,seq_004,4,8,1
+job_0559,joshualuna,Report Generation,"streaming,report,llm,visualization",failed,240,2024-03-17,seq_192,2,16,0
+job_0393,jrusso,Model Evaluation,"ml,evaluation,encryption,compression",failed,120,2024-03-17,seq_135,4,64,1
+job_0493,owilliams,Model Evaluation,"ml,evaluation,encryption,image,api",failed,120,2024-03-17,seq_157,8,16,2
+job_0447,owilliams,ML Model Training,"ml,training,indexing,gpu",completed,60,2024-03-17,seq_076,8,16,2
+job_0904,danieljones,ML Model Training,"ml,training,llm,cloud,nlp,gpu",completed,30,2024-03-17,seq_161,16,32,1
+job_0962,lreid,Log Analysis,"pipeline,logs,cloud,monitoring",completed,240,2024-03-17,seq_148,4,32,2
+job_0858,cbell,Model Evaluation,"ml,evaluation,compression,geospatial,benchmarking",completed,60,2024-03-17,seq_155,16,32,1
+job_0709,cory15,Web Scraping,"compression,scraping,automation",failed,180,2024-03-17,seq_059,8,64,0
+job_0865,nicoleortiz,Web Scraping,"automation,deployment,cloud,nlp,scraping",completed,180,2024-03-17,seq_076,8,16,2
+job_0699,michaelpatterson,ETL Job,"etl,forecasting,data pipeline,benchmarking,nlp",running,120,2024-03-17,seq_062,16,32,2
+job_0876,lreid,Web Scraping,"geospatial,scraping,automation,cloud",completed,240,2024-03-17,seq_038,2,16,1
+job_0819,parsonsmackenzie,ML Model Training,"ml,training,deployment,gpu",running,60,2024-03-17,seq_165,8,64,1
+job_0172,gateschristopher,Security Scan,"testing,security,pipeline,scan",completed,180,2024-03-17,seq_116,4,16,4
+job_0308,parsonsmackenzie,ML Model Training,"ml,training,benchmarking,gpu",completed,240,2024-03-17,seq_110,2,64,1
+job_0134,wongkenneth,ML Model Training,"ml,training,deployment,nlp,gpu",completed,60,2024-03-17,seq_008,2,16,1
+job_0756,gateschristopher,ETL Job,"etl,data pipeline,compression",completed,240,2024-03-17,seq_016,16,8,2
+job_0786,parsonsmackenzie,ML Model Training,"ml,training,forecasting,testing,api,gpu",completed,240,2024-03-17,seq_016,8,16,1
+job_0624,clong,Model Evaluation,"ml,evaluation,compression,api",completed,240,2024-03-17,seq_104,2,32,4
+job_0800,parsonsmackenzie,ETL Job,"etl,data pipeline,compression,api",running,180,2024-03-17,seq_077,4,8,0
+job_0334,christopher96,Report Generation,"nlp,indexing,report,visualization",pending,30,2024-03-17,seq_173,2,64,1
+job_0061,ian60,Model Evaluation,"ml,evaluation,forecasting,streaming,pipeline",pending,180,2024-03-17,seq_196,16,16,2
+job_0340,owilliams,ML Model Training,"ml,training,image,streaming,gpu",running,240,2024-03-17,seq_008,16,8,2
+job_0474,gmitchell,ETL Job,"etl,benchmarking,data pipeline",completed,60,2024-03-17,seq_040,8,32,0
+job_0992,lreid,ETL Job,"etl,image,data pipeline",running,240,2024-03-17,seq_081,2,16,1
+job_0228,cory15,Video Rendering,"rendering,testing,gpu,video",failed,60,2024-03-17,seq_121,16,16,1
+job_0064,owilliams,Report Generation,"testing,benchmarking,report,visualization",completed,120,2024-03-17,seq_116,16,16,2
+job_0502,hannahfoster,Database Backup,"nlp,benchmarking,backup,database",completed,30,2024-03-17,seq_028,8,8,0
+job_0379,nicoleortiz,Model Evaluation,"ml,evaluation,compression,forecasting,deployment",failed,60,2024-03-17,seq_168,4,64,4
+job_0916,cory15,Video Rendering,"rendering,testing,gpu,video",completed,30,2024-03-17,seq_099,2,8,4
+job_0850,gmitchell,ETL Job,"etl,benchmarking,data pipeline",failed,240,2024-03-17,seq_132,8,64,0
+job_0840,jrusso,Report Generation,"streaming,geospatial,report,visualization",completed,120,2024-03-17,seq_061,2,8,0
+job_0197,gateschristopher,ETL Job,"etl,pipeline,data pipeline",running,30,2024-03-17,seq_097,2,64,0
+job_0236,danieljones,Model Evaluation,"ml,evaluation,encryption,benchmarking",completed,120,2024-03-17,seq_027,2,16,0
+job_0973,clong,Web Scraping,"automation,image,testing,indexing,scraping",completed,30,2024-03-17,seq_166,16,32,1
+job_0886,owilliams,Security Scan,"security,image,scan,llm",completed,240,2024-03-17,seq_058,4,16,2
+job_0605,nicoleortiz,ETL Job,"etl,geospatial,data pipeline,streaming,benchmarking",running,120,2024-03-17,seq_130,8,64,0
+job_0789,danieljones,Database Backup,"nlp,streaming,backup,database",running,120,2024-03-17,seq_054,4,32,1
+job_0440,hannahfoster,ETL Job,"etl,streaming,deployment,data pipeline",completed,60,2024-03-17,seq_142,16,64,2
+job_0208,danieljones,Web Scraping,"nlp,testing,scraping,automation",running,180,2024-03-17,seq_011,2,8,1
+job_0191,gmitchell,Model Evaluation,"ml,streaming,evaluation,geospatial",completed,180,2024-03-17,seq_004,8,64,1
+job_0654,christopher96,Video Rendering,"video,rendering,image,llm,cloud,gpu",failed,240,2024-03-17,seq_075,8,32,4
+job_0418,christopher96,Log Analysis,"logs,monitoring,encryption,image,cloud",completed,240,2024-03-17,seq_133,16,32,1
+job_0749,michaelpatterson,Model Evaluation,"ml,evaluation,encryption",failed,30,2024-03-17,seq_195,8,16,0
+job_0066,hannahfoster,Web Scraping,"forecasting,scraping,automation",running,180,2024-03-17,seq_085,2,16,2
+job_0504,gateschristopher,Log Analysis,"image,logs,monitoring",completed,240,2024-03-17,seq_004,2,8,4
+job_0103,ian60,Report Generation,"report,api,visualization",completed,180,2024-03-17,seq_175,16,64,2
+job_0207,clong,Report Generation,"report,compression,deployment,benchmarking,visualization",completed,120,2024-03-17,seq_082,16,64,4
+job_0087,michaelpatterson,Web Scraping,"automation,forecasting,benchmarking,testing,scraping",completed,60,2024-03-17,seq_033,16,8,4
+job_0031,danieljones,Model Evaluation,"ml,evaluation,image,compression",completed,60,2024-03-17,seq_089,4,16,2
+job_0104,jrusso,ETL Job,"etl,data pipeline,cloud",completed,60,2024-03-17,seq_132,8,32,1
+job_0968,hannahfoster,Data Preprocessing,"data,preprocessing,image,streaming,cloud",completed,180,2024-03-17,seq_143,4,8,4
+job_0050,wongkenneth,Database Backup,"deployment,backup,database",completed,30,2024-03-17,seq_160,8,32,2
+job_0561,cbell,Security Scan,"security,scan,llm,compression",failed,180,2024-03-17,seq_038,8,8,2
+job_0852,wongkenneth,ML Model Training,"ml,pipeline,training,gpu",completed,60,2024-03-17,seq_187,2,16,1
+job_0792,hannahfoster,ETL Job,"etl,data pipeline,streaming,benchmarking,pipeline",completed,60,2024-03-17,seq_158,2,16,0
+job_0347,morganlinda,Video Rendering,"video,rendering,encryption,api,nlp,gpu",completed,180,2024-03-17,seq_166,8,64,4
+job_0596,burkeraymond,Model Evaluation,"ml,evaluation,indexing",failed,30,2024-03-17,seq_046,2,8,0
+job_0823,gmitchell,Data Preprocessing,"pipeline,data,preprocessing",completed,120,2024-03-17,seq_189,8,32,1
+job_0492,cbell,Log Analysis,"pipeline,logs,cloud,monitoring",completed,120,2024-03-17,seq_155,2,16,2
+job_0735,cbell,Video Rendering,"deployment,rendering,gpu,video",completed,180,2024-03-17,seq_119,16,32,3
+job_0533,burkeraymond,Report Generation,"report,streaming,llm,visualization,pipeline",completed,120,2024-03-17,seq_052,16,64,0
+job_0099,michaelpatterson,Security Scan,"security,benchmarking,scan,api",failed,30,2024-03-17,seq_080,8,16,4
+job_0763,michaelpatterson,ETL Job,"etl,encryption,data pipeline",completed,30,2024-03-17,seq_124,4,32,2
+job_0976,cbell,Video Rendering,"video,rendering,geospatial,benchmarking,cloud,gpu",running,240,2024-03-17,seq_198,4,64,4
+job_0946,lreid,Data Preprocessing,"data,compression,preprocessing,api,indexing",completed,240,2024-03-17,seq_200,4,16,0
+job_0695,michaelpatterson,Video Rendering,"video,rendering,image,deployment,pipeline,gpu",failed,120,2024-03-17,seq_140,16,64,1
+job_0715,wongkenneth,ETL Job,"etl,forecasting,data pipeline",completed,240,2024-03-17,seq_137,2,64,4
+job_0194,cory15,Log Analysis,"nlp,logs,api,monitoring",completed,30,2024-03-17,seq_049,16,32,1
+job_0834,jrusso,Database Backup,"geospatial,backup,database,cloud",failed,180,2024-03-17,seq_171,8,8,4
+job_0429,clong,ETL Job,"etl,image,data pipeline,deployment,indexing",completed,30,2024-03-17,seq_043,8,8,4
+job_0029,clong,Web Scraping,"nlp,scraping,automation,cloud",completed,120,2024-03-17,seq_109,2,8,0
+job_0183,clong,Log Analysis,"logs,monitoring,streaming,llm,pipeline",running,60,2024-03-17,seq_013,4,64,4
+job_0747,michaelpatterson,ML Model Training,"ml,training,geospatial,benchmarking,nlp,gpu",completed,60,2024-03-17,seq_042,16,32,1
+job_0883,christopher96,Model Evaluation,"ml,evaluation,testing",failed,240,2024-03-17,seq_153,4,32,2
+job_0209,gateschristopher,ML Model Training,"ml,training,gpu,compression",failed,240,2024-03-17,seq_141,4,8,2
+job_0501,clong,Web Scraping,"automation,encryption,api,scraping,cloud",running,60,2024-03-17,seq_119,16,16,2
+job_0420,danieljones,ML Model Training,"ml,training,image,indexing,gpu",running,240,2024-03-17,seq_126,4,32,4
+job_0839,michaelpatterson,Report Generation,"image,report,visualization",running,60,2024-03-17,seq_141,4,16,0
+job_0239,parsonsmackenzie,Security Scan,"deployment,security,benchmarking,scan",failed,180,2024-03-17,seq_190,8,64,2
+job_0159,jrusso,Report Generation,"encryption,benchmarking,report,visualization",completed,60,2024-03-17,seq_086,2,32,4
+job_0076,cbell,Video Rendering,"rendering,gpu,llm,video",completed,180,2024-03-17,seq_194,8,64,3
+job_0424,cbell,Report Generation,"report,encryption,geospatial,llm,visualization",completed,60,2024-03-17,seq_006,4,64,4
+job_0736,cbell,Security Scan,"testing,security,benchmarking,scan",completed,120,2024-03-17,seq_062,16,64,4
+job_0022,cameronstephen,ML Model Training,"ml,training,encryption,streaming,gpu",completed,30,2024-03-17,seq_071,2,8,1
+job_0488,cbell,Report Generation,"deployment,image,report,visualization",completed,60,2024-03-17,seq_050,8,32,2
+job_0262,joshualuna,Model Evaluation,"ml,evaluation,benchmarking,compression",running,60,2024-03-17,seq_047,2,8,4
+job_0375,hannahfoster,Security Scan,"security,benchmarking,scan",failed,180,2024-03-17,seq_044,2,8,0
+job_0518,christopher96,Log Analysis,"testing,logs,monitoring",completed,240,2024-03-17,seq_120,16,16,1
+job_0376,jrusso,ML Model Training,"ml,training,compression,pipeline,gpu",failed,120,2024-03-17,seq_143,4,8,4
+job_0036,hannahfoster,Report Generation,"forecasting,benchmarking,report,visualization",failed,30,2024-03-17,seq_054,8,16,2
+job_0942,cbell,Video Rendering,"video,rendering,api,indexing,gpu",failed,60,2024-03-17,seq_105,4,64,2
+job_0292,lreid,ML Model Training,"ml,training,gpu,nlp",running,30,2024-03-17,seq_176,16,16,4
+job_0350,gmitchell,ML Model Training,"ml,training,encryption,streaming,pipeline,gpu",running,30,2024-03-17,seq_093,16,8,1
+job_0112,joshualuna,Log Analysis,"nlp,logs,llm,monitoring",completed,30,2024-03-17,seq_054,4,64,2
+job_0108,jrusso,ETL Job,"etl,forecasting,data pipeline,cloud",completed,240,2024-03-17,seq_111,4,16,4
+job_0217,nicoleortiz,Log Analysis,"logs,monitoring,api,nlp,indexing",running,240,2024-03-17,seq_102,4,16,0
+job_0466,lreid,Database Backup,"encryption,backup,database,api",completed,60,2024-03-17,seq_068,8,32,0
+job_0674,jrusso,ETL Job,"etl,geospatial,data pipeline,deployment,nlp",completed,120,2024-03-17,seq_101,8,8,0
+job_0111,cameronstephen,ML Model Training,"ml,training,api,cloud,gpu",pending,120,2024-03-17,seq_021,8,8,4
+job_0384,cameronstephen,Data Preprocessing,"deployment,data,nlp,preprocessing",running,240,2024-03-17,seq_047,8,16,4
+job_0267,michaelpatterson,ML Model Training,"ml,training,geospatial,streaming,gpu",completed,30,2024-03-17,seq_114,8,32,4
+job_0394,christopher96,ML Model Training,"ml,training,testing,nlp,gpu",pending,180,2024-03-17,seq_057,16,8,4
+job_0710,christopher96,Web Scraping,"compression,scraping,automation,indexing",completed,180,2024-03-17,seq_122,8,16,1
+job_0597,lreid,Database Backup,"backup,database,api",running,180,2024-03-17,seq_001,16,64,2
+job_0760,cameronstephen,Data Preprocessing,"deployment,data,preprocessing",running,60,2024-03-17,seq_144,8,32,2
+job_0578,clong,Model Evaluation,"ml,forecasting,evaluation",completed,240,2024-03-17,seq_071,2,64,4
+job_0203,hannahfoster,Video Rendering,"video,rendering,image,llm,gpu",completed,120,2024-03-17,seq_022,2,32,1
+job_0179,burkeraymond,Database Backup,"backup,compression,deployment,nlp,database",completed,120,2024-03-17,seq_077,8,8,0
+job_0825,ian60,Report Generation,"deployment,report,cloud,visualization",completed,60,2024-03-17,seq_112,2,8,4
+job_0932,cameronstephen,Log Analysis,"streaming,logs,monitoring",completed,240,2024-03-17,seq_115,4,16,1
+job_0639,ian60,Web Scraping,"image,scraping,automation",running,120,2024-03-17,seq_172,4,32,2
+job_0119,nicoleortiz,Log Analysis,"logs,monitoring,encryption,streaming,cloud",completed,180,2024-03-17,seq_128,4,8,1
+job_0629,gateschristopher,Log Analysis,"logs,geospatial,monitoring",pending,120,2024-03-17,seq_094,4,64,1
+job_0933,joshualuna,Data Preprocessing,"geospatial,data,preprocessing",completed,30,2024-03-17,seq_181,16,64,4
+job_0082,wongkenneth,Data Preprocessing,"data,preprocessing,streaming,testing,api",failed,30,2024-03-17,seq_180,8,32,1
+job_0251,wongkenneth,Report Generation,"testing,report,visualization",failed,30,2024-03-17,seq_171,4,64,4
+job_0399,morganlinda,Database Backup,"benchmarking,backup,database",completed,180,2024-03-17,seq_192,16,8,1
+job_0688,nicoleortiz,Database Backup,"backup,database,api",failed,180,2024-03-17,seq_072,2,64,0
+job_0049,morganlinda,Security Scan,"forecasting,streaming,scan,nlp,security",completed,120,2024-03-17,seq_116,16,32,0
+job_0888,michaelpatterson,Report Generation,"encryption,report,cloud,visualization",completed,60,2024-03-17,seq_143,16,16,0
+job_0190,gmitchell,Log Analysis,"deployment,forecasting,logs,monitoring",failed,60,2024-03-17,seq_088,2,64,2
+job_0964,hannahfoster,ETL Job,"etl,data pipeline,llm,cloud",completed,120,2024-03-17,seq_120,2,64,2
+job_0464,michaelpatterson,Log Analysis,"compression,logs,cloud,monitoring",running,120,2024-03-17,seq_169,8,8,0
+job_0808,jrusso,Report Generation,"pipeline,report,llm,visualization",completed,240,2024-03-17,seq_104,16,16,1
+job_0759,clong,Video Rendering,"rendering,gpu,api,video",completed,120,2024-03-17,seq_139,8,64,2
+job_0887,cameronstephen,ML Model Training,"ml,training,encryption,geospatial,deployment,gpu",failed,180,2024-03-17,seq_164,16,64,1
+job_0984,christopher96,Log Analysis,"forecasting,logs,monitoring",pending,60,2024-03-17,seq_175,2,32,4
+job_0498,gmitchell,Model Evaluation,"ml,evaluation,compression,api,cloud",running,240,2024-03-17,seq_188,8,8,4
+job_0078,hannahfoster,ETL Job,"etl,geospatial,data pipeline,deployment,nlp",completed,30,2024-03-17,seq_168,2,16,2
+job_0043,nicoleortiz,Web Scraping,"automation,geospatial,streaming,testing,scraping",completed,240,2024-03-17,seq_098,2,8,2
+job_0742,burkeraymond,Data Preprocessing,"deployment,data,preprocessing",completed,60,2024-03-17,seq_059,16,32,0
+job_0012,clong,ML Model Training,"ml,training,image,nlp,gpu",completed,30,2024-03-17,seq_093,2,64,4
+job_0588,owilliams,ETL Job,"etl,data pipeline,llm,nlp,indexing",completed,120,2024-03-17,seq_171,16,16,2
+job_0550,jrusso,Database Backup,"encryption,backup,database",completed,240,2024-03-17,seq_178,2,16,0
+job_0728,hannahfoster,Data Preprocessing,"geospatial,data,preprocessing",completed,240,2024-03-17,seq_124,4,64,4
+job_0476,gmitchell,Model Evaluation,"ml,evaluation,compression,nlp",running,180,2024-03-17,seq_070,4,16,2
+job_0098,jrusso,Log Analysis,"nlp,logs,llm,monitoring",failed,30,2024-03-17,seq_197,8,32,1
+job_0922,danieljones,Log Analysis,"image,logs,monitoring",completed,30,2024-03-17,seq_071,4,16,1
+job_0990,michaelpatterson,Web Scraping,"geospatial,scraping,automation",failed,180,2024-03-17,seq_022,16,16,4
+job_0398,gmitchell,Report Generation,"indexing,report,visualization",completed,60,2024-03-17,seq_036,4,8,0
+job_0299,ian60,ETL Job,"etl,encryption,data pipeline,indexing",running,30,2024-03-17,seq_110,4,64,2
+job_0905,parsonsmackenzie,Security Scan,"security,scan,streaming",completed,60,2024-03-17,seq_082,2,16,1
+job_0633,clong,Log Analysis,"logs,monitoring,compression,encryption,deployment",completed,240,2024-03-17,seq_106,16,16,0
+job_0842,wongkenneth,Report Generation,"report,geospatial,visualization,nlp,pipeline",completed,240,2024-03-17,seq_053,16,32,1
+job_0554,wongkenneth,ETL Job,"etl,deployment,data pipeline",completed,120,2024-03-17,seq_173,16,8,2
+job_0387,parsonsmackenzie,Log Analysis,"logs,api,monitoring",completed,30,2024-03-17,seq_181,2,16,2
+job_0859,morganlinda,Model Evaluation,"ml,evaluation,encryption",completed,120,2024-03-17,seq_141,4,8,0
+job_0811,michaelpatterson,Data Preprocessing,"benchmarking,data,compression,preprocessing",pending,120,2024-03-17,seq_132,2,32,0
+job_0937,lreid,Data Preprocessing,"pipeline,data,preprocessing",completed,240,2024-03-17,seq_176,8,16,4
+job_0564,christopher96,Video Rendering,"deployment,rendering,gpu,video",completed,180,2024-03-17,seq_053,8,8,1
+job_0860,michaelpatterson,Security Scan,"security,pipeline,scan,llm",completed,30,2024-03-17,seq_137,4,64,1
+job_0751,burkeraymond,Video Rendering,"rendering,gpu,cloud,video",completed,30,2024-03-17,seq_170,4,32,1
+job_0135,gmitchell,Log Analysis,"nlp,logs,monitoring",running,30,2024-03-17,seq_029,2,64,4
+job_0965,wongkenneth,Video Rendering,"video,rendering,encryption,nlp,gpu",completed,30,2024-03-17,seq_166,2,32,3
+job_0368,burkeraymond,Video Rendering,"rendering,testing,gpu,video",failed,30,2024-03-17,seq_149,2,32,2
+job_0665,morganlinda,Log Analysis,"logs,monitoring,encryption,geospatial,indexing",completed,30,2024-03-17,seq_002,2,8,4
+job_0272,lreid,ML Model Training,"ml,training,gpu,nlp",completed,240,2024-03-17,seq_059,16,8,4
+job_0528,morganlinda,Report Generation,"report,cloud,visualization",completed,120,2024-03-17,seq_171,4,8,2
+job_0258,morganlinda,Report Generation,"indexing,report,visualization",completed,60,2024-03-17,seq_089,4,32,1
+job_0936,clong,Log Analysis,"logs,monitoring,forecasting,image,api",running,120,2024-03-17,seq_041,4,32,2
+job_0436,clong,Report Generation,"deployment,forecasting,report,visualization",completed,240,2024-03-17,seq_095,2,32,0
+job_0871,clong,Video Rendering,"rendering,pipeline,gpu,video",completed,180,2024-03-17,seq_200,8,16,1
+job_0364,gateschristopher,Report Generation,"nlp,forecasting,report,visualization",failed,120,2024-03-17,seq_131,2,64,2
+job_0205,lreid,Web Scraping,"llm,scraping,automation",completed,120,2024-03-17,seq_135,16,64,1
+job_0848,ian60,Log Analysis,"deployment,pipeline,logs,monitoring",running,120,2024-03-17,seq_003,2,64,0
+job_0971,cbell,Model Evaluation,"ml,forecasting,evaluation,streaming",completed,30,2024-03-17,seq_013,4,8,2
+job_0677,michaelpatterson,Database Backup,"streaming,testing,backup,database",completed,180,2024-03-17,seq_030,4,8,4
+job_0110,burkeraymond,Model Evaluation,"ml,pipeline,evaluation",completed,30,2024-03-17,seq_012,8,8,2
+job_0874,hannahfoster,Report Generation,"report,forecasting,llm,visualization,nlp",running,120,2024-03-17,seq_031,4,8,4
+job_0271,gateschristopher,Log Analysis,"forecasting,logs,geospatial,monitoring",completed,30,2024-03-17,seq_114,16,32,0
+job_0301,cameronstephen,Web Scraping,"encryption,scraping,automation",completed,240,2024-03-17,seq_044,2,64,0
+job_0771,danieljones,Video Rendering,"video,rendering,image,llm,api,gpu",failed,60,2024-03-17,seq_168,8,64,4
+job_0434,burkeraymond,Model Evaluation,"ml,evaluation,forecasting,streaming,cloud",running,60,2024-03-17,seq_086,8,8,2
+job_0794,michaelpatterson,Security Scan,"security,scan,indexing",completed,120,2024-03-17,seq_053,4,64,0
+job_0835,hannahfoster,Report Generation,"report,api,visualization",failed,30,2024-03-17,seq_137,2,32,2
+job_0353,hannahfoster,Security Scan,"security,scan,cloud",completed,30,2024-03-17,seq_081,8,32,4
+job_0475,burkeraymond,Report Generation,"report,testing,llm,visualization,indexing",failed,180,2024-03-17,seq_158,16,8,4
+job_0419,gmitchell,Database Backup,"forecasting,benchmarking,backup,database",completed,60,2024-03-17,seq_155,2,64,0
+job_0330,joshualuna,Model Evaluation,"ml,evaluation,cloud",completed,180,2024-03-17,seq_107,2,8,4
+job_0212,christopher96,Data Preprocessing,"data,preprocessing,geospatial,streaming,benchmarking",completed,180,2024-03-17,seq_087,4,8,1
+job_0133,jrusso,Database Backup,"backup,geospatial,llm,api,database",completed,60,2024-03-17,seq_049,2,64,2
+job_0247,danieljones,Report Generation,"testing,report,api,visualization",completed,60,2024-03-17,seq_111,4,8,1
+job_0226,hannahfoster,ML Model Training,"ml,training,geospatial,llm,nlp,gpu",completed,180,2024-03-17,seq_075,2,16,4
+job_0167,lreid,ETL Job,"etl,forecasting,data pipeline,deployment,indexing",completed,120,2024-03-17,seq_183,8,16,4
+job_0744,danieljones,ML Model Training,"ml,training,forecasting,cloud,gpu",pending,180,2024-03-17,seq_196,8,32,4
+job_0449,ian60,Security Scan,"security,scan,llm",completed,120,2024-03-17,seq_055,2,32,1
+job_0960,gateschristopher,Model Evaluation,"ml,evaluation,forecasting,llm,api",completed,60,2024-03-17,seq_164,8,64,0
+job_0880,jrusso,Security Scan,"testing,security,scan,cloud",running,240,2024-03-17,seq_165,8,16,2
+job_0216,jrusso,Security Scan,"deployment,security,scan,encryption",completed,180,2024-03-17,seq_049,4,32,1
+job_0255,ian60,Web Scraping,"llm,forecasting,scraping,automation",completed,30,2024-03-17,seq_176,2,64,0
+job_0798,danieljones,Security Scan,"forecasting,encryption,deployment,scan,security",running,180,2024-03-17,seq_127,8,32,4
+job_0213,clong,Report Generation,"report,encryption,geospatial,visualization,indexing",failed,60,2024-03-17,seq_180,8,64,4
+job_0861,cbell,Database Backup,"backup,testing,pipeline,indexing,database",completed,60,2024-03-17,seq_018,2,8,2
+job_0433,ian60,ETL Job,"etl,testing,data pipeline",completed,30,2024-03-17,seq_109,2,8,1
+job_0157,cbell,ML Model Training,"ml,training,geospatial,indexing,gpu",completed,30,2024-03-17,seq_182,4,8,1
+job_0684,nicoleortiz,Data Preprocessing,"forecasting,data,api,preprocessing",completed,240,2024-03-17,seq_083,8,16,0
+job_0503,gmitchell,Log Analysis,"image,logs,benchmarking,monitoring",completed,180,2024-03-17,seq_134,2,64,2
+job_0514,gateschristopher,Security Scan,"nlp,security,scan,geospatial",completed,60,2024-03-17,seq_023,8,16,2
+job_0085,lreid,Security Scan,"encryption,security,scan,cloud",completed,120,2024-03-17,seq_031,16,16,1
+job_0774,hannahfoster,ETL Job,"etl,forecasting,testing,data pipeline",failed,240,2024-03-17,seq_159,4,8,0
+job_0117,gmitchell,Report Generation,"report,compression,forecasting,visualization,indexing",completed,30,2024-03-17,seq_050,8,64,0
+job_0086,michaelpatterson,Report Generation,"benchmarking,report,visualization",completed,180,2024-03-17,seq_110,2,16,4
+job_0198,nicoleortiz,Data Preprocessing,"data,compression,preprocessing,encryption,testing",running,60,2024-03-17,seq_185,16,32,1
+job_0041,gateschristopher,ML Model Training,"ml,streaming,training,gpu",failed,240,2024-03-17,seq_147,4,8,1
+job_0397,morganlinda,ML Model Training,"ml,training,geospatial,gpu",running,120,2024-03-17,seq_104,16,32,1
+job_0704,ian60,Database Backup,"backup,compression,database",completed,120,2024-03-17,seq_010,2,16,2
+job_0402,gateschristopher,Security Scan,"deployment,scan,cloud,security,pipeline",completed,120,2024-03-17,seq_197,16,16,4
+job_0412,lreid,Security Scan,"security,geospatial,scan,llm",completed,60,2024-03-17,seq_061,16,64,2
+job_0531,cbell,Video Rendering,"video,rendering,image,cloud,nlp,gpu",failed,60,2024-03-17,seq_105,4,32,1
+job_0563,christopher96,Security Scan,"deployment,security,benchmarking,scan",failed,180,2024-03-17,seq_171,16,32,1
+job_0328,michaelpatterson,Model Evaluation,"ml,evaluation,compression,nlp",completed,60,2024-03-17,seq_095,2,64,4
+job_0042,jrusso,ML Model Training,"ml,training,image,cloud,pipeline,gpu",completed,30,2024-03-17,seq_196,16,8,1
+job_0999,christopher96,ETL Job,"etl,encryption,data pipeline,api,cloud",failed,240,2024-03-17,seq_079,8,32,0
+job_0723,joshualuna,Log Analysis,"encryption,logs,deployment,monitoring",completed,30,2024-03-17,seq_052,8,64,4
+job_0569,wongkenneth,Report Generation,"report,llm,visualization,cloud,pipeline",completed,60,2024-03-17,seq_110,16,8,0
+job_0821,morganlinda,Log Analysis,"benchmarking,logs,indexing,monitoring",running,120,2024-03-17,seq_169,4,16,0
+job_0275,ian60,Security Scan,"deployment,security,scan",running,30,2024-03-17,seq_186,2,64,1
+job_0244,lreid,Log Analysis,"pipeline,logs,geospatial,monitoring",completed,180,2024-03-17,seq_003,8,8,1
+job_0445,parsonsmackenzie,Log Analysis,"nlp,logs,monitoring",completed,240,2024-03-17,seq_129,4,16,4
+job_0953,michaelpatterson,Security Scan,"security,image,scan",completed,240,2024-03-17,seq_133,16,16,2
+job_0221,cameronstephen,Data Preprocessing,"data,preprocessing,forecasting,image,geospatial",completed,60,2024-03-17,seq_192,8,64,4
+job_0529,gmitchell,Model Evaluation,"ml,evaluation,llm",completed,180,2024-03-17,seq_180,4,64,4
+job_0160,morganlinda,Data Preprocessing,"data,compression,preprocessing,testing,indexing",completed,240,2024-03-17,seq_081,16,8,0
+job_0707,owilliams,Web Scraping,"encryption,scraping,automation,api",completed,240,2024-03-17,seq_087,8,8,1
+job_0490,joshualuna,Log Analysis,"logs,monitoring,forecasting,api,indexing",completed,240,2024-03-17,seq_124,4,8,1
+job_0663,hannahfoster,ML Model Training,"ml,training,compression,forecasting,benchmarking,gpu",completed,180,2024-03-17,seq_014,4,32,1
+job_0772,owilliams,Data Preprocessing,"forecasting,data,llm,preprocessing",completed,30,2024-03-17,seq_190,2,16,1
+job_0128,danieljones,Web Scraping,"automation,benchmarking,nlp,indexing,scraping",completed,180,2024-03-17,seq_086,8,32,2
+job_0152,morganlinda,Report Generation,"report,compression,visualization",completed,180,2024-03-17,seq_164,8,32,4
+job_0431,lreid,Data Preprocessing,"testing,data,cloud,preprocessing",completed,120,2024-03-17,seq_177,2,64,2
+job_0879,wongkenneth,Report Generation,"testing,report,cloud,visualization",completed,180,2024-03-17,seq_005,8,8,4
+job_0245,jrusso,Security Scan,"security,pipeline,scan,geospatial",failed,120,2024-03-17,seq_160,8,32,1
+job_0016,danieljones,Report Generation,"report,testing,visualization,nlp,indexing",completed,180,2024-03-17,seq_073,16,32,4
+job_0856,gmitchell,Database Backup,"forecasting,backup,compression,database",failed,180,2024-03-17,seq_059,4,16,0
+job_0628,cory15,Web Scraping,"automation,benchmarking,llm,testing,scraping",failed,60,2024-03-17,seq_110,2,8,1
+job_0113,cory15,Data Preprocessing,"nlp,geospatial,data,preprocessing",running,240,2024-03-17,seq_032,2,8,4
+job_0136,nicoleortiz,Model Evaluation,"ml,forecasting,evaluation,image",running,240,2024-03-17,seq_171,4,16,1
+job_0355,lreid,Security Scan,"deployment,security,pipeline,scan",completed,120,2024-03-17,seq_142,4,8,0
+job_0240,michaelpatterson,Data Preprocessing,"nlp,benchmarking,data,preprocessing",completed,120,2024-03-17,seq_002,4,32,4
+job_0726,gateschristopher,Database Backup,"indexing,backup,llm,database",failed,30,2024-03-17,seq_143,4,64,0
+job_0998,wongkenneth,ETL Job,"etl,data pipeline,compression",completed,60,2024-03-17,seq_098,16,16,0
+job_0591,cameronstephen,Database Backup,"backup,deployment,cloud,indexing,database",pending,240,2024-03-17,seq_110,2,64,4
+job_0045,gateschristopher,Report Generation,"deployment,report,cloud,visualization",completed,120,2024-03-17,seq_053,16,32,0
+job_0924,cbell,Web Scraping,"automation,geospatial,deployment,pipeline,scraping",completed,120,2024-03-17,seq_176,2,64,4
+job_0378,cory15,Security Scan,"geospatial,testing,scan,llm,security",completed,30,2024-03-17,seq_110,8,8,1
+job_0114,owilliams,Web Scraping,"image,scraping,automation,indexing",failed,180,2024-03-17,seq_180,4,32,4
+job_0373,danieljones,Video Rendering,"deployment,rendering,gpu,video",failed,120,2024-03-17,seq_096,4,32,2
+job_0939,nicoleortiz,Model Evaluation,"ml,evaluation,deployment",failed,60,2024-03-17,seq_090,16,32,1
+job_0765,jrusso,Security Scan,"testing,security,scan,encryption",completed,120,2024-03-17,seq_144,4,16,1
+job_0530,burkeraymond,Log Analysis,"logs,monitoring,geospatial,api,pipeline",completed,60,2024-03-17,seq_027,8,8,4
+job_0693,danieljones,Data Preprocessing,"geospatial,data,preprocessing",pending,30,2024-03-17,seq_197,16,16,0
+job_0187,owilliams,ML Model Training,"ml,forecasting,training,gpu",running,30,2024-03-17,seq_164,16,64,4
+job_0154,nicoleortiz,ML Model Training,"ml,training,encryption,api,gpu",completed,240,2024-03-17,seq_138,16,32,1
+job_0166,clong,Web Scraping,"nlp,streaming,scraping,automation",completed,60,2024-03-17,seq_157,4,64,2
+job_0192,danieljones,Data Preprocessing,"data,preprocessing,forecasting,benchmarking,nlp",completed,240,2024-03-17,seq_153,2,16,2
+job_0201,gmitchell,Web Scraping,"pipeline,indexing,scraping,automation",completed,30,2024-03-17,seq_008,4,16,2
+job_0140,wongkenneth,Security Scan,"security,scan,compression",completed,30,2024-03-17,seq_040,8,64,4
+job_0974,nicoleortiz,Data Preprocessing,"data,preprocessing,image,geospatial,llm",running,120,2024-03-17,seq_001,8,8,1
+job_0341,wongkenneth,Video Rendering,"video,rendering,testing,api,gpu",completed,60,2024-03-17,seq_003,2,8,2
+job_0757,jrusso,Video Rendering,"video,rendering,geospatial,deployment,gpu",completed,120,2024-03-17,seq_099,4,64,2
+job_0137,wongkenneth,Video Rendering,"nlp,rendering,gpu,video",completed,30,2024-03-17,seq_010,16,16,2
+job_0019,wongkenneth,Log Analysis,"logs,llm,indexing,monitoring",running,60,2024-03-17,seq_029,4,16,1
+job_0978,clong,Log Analysis,"streaming,logs,monitoring",completed,60,2024-03-17,seq_070,16,32,4
+job_0385,clong,Model Evaluation,"ml,evaluation,deployment,geospatial",completed,120,2024-03-17,seq_002,4,8,1
+job_0914,cameronstephen,Model Evaluation,"ml,evaluation,benchmarking,api",running,120,2024-03-17,seq_086,16,16,1
+job_0921,gateschristopher,ML Model Training,"ml,training,forecasting,benchmarking,gpu",completed,240,2024-03-17,seq_001,2,8,2
+job_0411,owilliams,Web Scraping,"compression,automation,benchmarking,cloud,scraping",running,180,2024-03-17,seq_187,4,16,1
+job_0144,gateschristopher,Data Preprocessing,"image,data,preprocessing",running,240,2024-03-17,seq_173,8,32,0
+job_0254,christopher96,Data Preprocessing,"geospatial,data,preprocessing",completed,240,2024-03-17,seq_014,2,8,0
+job_0611,wongkenneth,Security Scan,"security,pipeline,scan",pending,180,2024-03-17,seq_035,2,64,2
+job_0357,cory15,Security Scan,"nlp,security,scan,indexing",completed,180,2024-03-17,seq_009,16,32,4
+job_0750,gateschristopher,Web Scraping,"deployment,scraping,automation",running,120,2024-03-17,seq_067,8,16,2
+job_0918,christopher96,Data Preprocessing,"data,cloud,preprocessing",completed,60,2024-03-17,seq_105,2,64,1
+job_0224,nicoleortiz,Log Analysis,"logs,monitoring,deployment,testing,benchmarking",completed,30,2024-03-17,seq_097,4,64,1
+job_0505,lreid,Report Generation,"report,forecasting,llm,visualization,api",failed,240,2024-03-17,seq_141,2,32,4
+job_0614,gmitchell,ML Model Training,"ml,training,llm,api,gpu,cloud",completed,60,2024-03-17,seq_188,8,64,4
+job_0956,cbell,ML Model Training,"ml,training,encryption,gpu",completed,30,2024-03-17,seq_021,16,64,1
+job_0546,cameronstephen,Report Generation,"streaming,report,cloud,visualization",running,180,2024-03-17,seq_007,4,64,1
+job_0618,gmitchell,Data Preprocessing,"benchmarking,data,preprocessing",running,30,2024-03-17,seq_146,2,32,2
+job_0545,clong,Data Preprocessing,"compression,data,api,preprocessing",completed,180,2024-03-17,seq_037,16,16,0
+job_0837,morganlinda,ETL Job,"etl,encryption,data pipeline",completed,120,2024-03-17,seq_019,16,64,2
+job_0543,christopher96,Report Generation,"deployment,testing,report,visualization",completed,240,2024-03-17,seq_089,16,32,1
+job_0714,owilliams,Log Analysis,"encryption,logs,testing,monitoring",completed,120,2024-03-17,seq_084,2,16,0
+job_0552,joshualuna,Report Generation,"testing,report,visualization",completed,240,2024-03-17,seq_044,2,32,4
+job_0631,hannahfoster,Log Analysis,"pipeline,logs,monitoring",failed,30,2024-03-17,seq_092,8,16,2
+job_0283,hannahfoster,Model Evaluation,"ml,evaluation,image,encryption",completed,120,2024-03-17,seq_129,4,64,0
+job_0944,michaelpatterson,Video Rendering,"rendering,gpu,api,video",completed,240,2024-03-17,seq_159,4,16,4
+job_0782,wongkenneth,Report Generation,"report,compression,api,visualization,cloud",pending,60,2024-03-17,seq_004,2,16,2
+job_0909,burkeraymond,Web Scraping,"nlp,scraping,automation",failed,60,2024-03-17,seq_114,4,8,0
+job_0927,gmitchell,Video Rendering,"video,rendering,encryption,nlp,gpu",completed,60,2024-03-17,seq_046,2,8,4
+job_0920,gateschristopher,Web Scraping,"llm,deployment,scraping,automation",completed,30,2024-03-17,seq_194,4,64,2
+job_0296,burkeraymond,Data Preprocessing,"benchmarking,data,llm,preprocessing",failed,180,2024-03-17,seq_141,4,32,2
+job_0833,michaelpatterson,Security Scan,"forecasting,scan,llm,security,indexing",failed,120,2024-03-17,seq_062,16,16,0
+job_0075,michaelpatterson,Database Backup,"streaming,backup,compression,database",completed,60,2024-03-17,seq_043,4,32,0
+job_0634,nicoleortiz,Web Scraping,"automation,image,geospatial,streaming,scraping",failed,240,2024-03-17,seq_091,16,16,0
+job_0722,wongkenneth,Security Scan,"security,image,scan,compression",failed,240,2024-03-17,seq_146,8,64,0
+job_0365,gateschristopher,Log Analysis,"nlp,pipeline,logs,monitoring",running,120,2024-03-17,seq_133,8,64,1
+job_0667,jrusso,Report Generation,"geospatial,image,report,visualization",failed,30,2024-03-17,seq_133,4,32,0
+job_0612,cbell,Data Preprocessing,"data,preprocessing,llm,cloud,pipeline",failed,120,2024-03-17,seq_114,16,8,1
+job_0679,danieljones,Log Analysis,"testing,logs,monitoring",completed,240,2024-03-17,seq_179,16,16,4
+job_0264,hannahfoster,Model Evaluation,"ml,evaluation,llm",completed,120,2024-03-17,seq_068,2,8,4
+job_0577,morganlinda,Model Evaluation,"ml,pipeline,evaluation,geospatial",completed,30,2024-03-17,seq_031,8,32,2
+job_0972,gateschristopher,Report Generation,"pipeline,indexing,report,visualization",completed,30,2024-03-17,seq_034,2,16,1
+job_0243,wongkenneth,ETL Job,"etl,pipeline,data pipeline,compression",completed,30,2024-03-17,seq_144,2,16,2
+job_0176,nicoleortiz,Log Analysis,"logs,monitoring,api,testing,cloud",completed,240,2024-03-17,seq_123,16,16,0
+job_0700,jrusso,Data Preprocessing,"geospatial,data,preprocessing",completed,30,2024-03-17,seq_090,2,16,1
+job_0551,parsonsmackenzie,Data Preprocessing,"data,preprocessing,nlp,pipeline,indexing",completed,240,2024-03-17,seq_137,16,16,4
+job_0150,parsonsmackenzie,Report Generation,"geospatial,report,visualization",running,60,2024-03-17,seq_048,16,64,1
+job_0761,cory15,Database Backup,"backup,llm,database",completed,240,2024-03-17,seq_086,4,16,2
+job_0509,hannahfoster,Data Preprocessing,"data,preprocessing,forecasting,api,indexing",completed,120,2024-03-17,seq_159,8,32,1
+job_0288,lreid,Web Scraping,"automation,encryption,testing,indexing,scraping",completed,60,2024-03-17,seq_169,4,16,1
+job_0950,danieljones,Model Evaluation,"ml,evaluation,image,api",completed,120,2024-03-17,seq_086,16,32,1
+job_0661,danieljones,Model Evaluation,"ml,evaluation,forecasting,image,api",completed,120,2024-03-17,seq_070,2,8,2
+job_0107,morganlinda,Log Analysis,"logs,indexing,monitoring",failed,120,2024-03-17,seq_122,2,8,4
+job_0907,danieljones,Model Evaluation,"ml,evaluation,encryption,testing,nlp",completed,120,2024-03-17,seq_091,8,8,4
+job_0130,hannahfoster,Model Evaluation,"ml,streaming,evaluation,api",completed,180,2024-03-17,seq_153,8,32,0
+job_0013,wongkenneth,Report Generation,"pipeline,testing,report,visualization",running,120,2024-03-17,seq_038,4,64,4
+job_0059,morganlinda,Database Backup,"backup,geospatial,testing,benchmarking,database",failed,180,2024-03-17,seq_023,2,16,1
+job_0097,joshualuna,Log Analysis,"forecasting,logs,geospatial,monitoring",completed,30,2024-03-17,seq_018,8,16,2
+job_0632,cory15,Web Scraping,"testing,encryption,scraping,automation",running,180,2024-03-17,seq_114,16,32,0
+job_0109,gateschristopher,Database Backup,"backup,geospatial,streaming,indexing,database",failed,240,2024-03-17,seq_119,4,8,1
+job_0455,christopher96,Model Evaluation,"ml,evaluation,encryption",completed,30,2024-03-17,seq_067,16,64,0
+job_0471,owilliams,ML Model Training,"ml,training,benchmarking,gpu",running,60,2024-03-17,seq_175,16,8,1
+job_0910,cory15,Video Rendering,"video,rendering,image,testing,llm,gpu",failed,60,2024-03-17,seq_034,4,64,3
+job_0071,wongkenneth,Web Scraping,"automation,image,encryption,api,scraping",completed,120,2024-03-17,seq_137,2,32,4
+job_0158,cbell,ETL Job,"etl,data pipeline,benchmarking,llm,cloud",running,120,2024-03-17,seq_189,16,8,0
+job_0395,burkeraymond,ETL Job,"etl,image,data pipeline,geospatial,benchmarking",completed,180,2024-03-17,seq_094,8,32,4
+job_0609,burkeraymond,ML Model Training,"ml,training,geospatial,deployment,gpu",completed,180,2024-03-17,seq_022,8,8,1
+job_0163,morganlinda,Database Backup,"forecasting,benchmarking,backup,database",completed,180,2024-03-17,seq_164,4,16,1
+job_0627,cbell,Report Generation,"forecasting,report,cloud,visualization",running,60,2024-03-17,seq_071,2,8,0
+job_0058,joshualuna,Model Evaluation,"ml,evaluation,forecasting,image,testing",completed,60,2024-03-17,seq_114,2,64,1
+job_0801,nicoleortiz,Web Scraping,"geospatial,scraping,automation,api",completed,240,2024-03-17,seq_154,4,8,4
+job_0727,danieljones,Web Scraping,"deployment,scraping,automation",completed,180,2024-03-17,seq_135,8,32,2
+job_0869,burkeraymond,ML Model Training,"ml,training,encryption,testing,indexing,gpu",completed,240,2024-03-17,seq_194,2,16,2
+job_0980,joshualuna,Database Backup,"backup,forecasting,deployment,streaming,database",completed,60,2024-03-17,seq_143,16,32,0
+job_0003,jrusso,ETL Job,"etl,data pipeline,api",completed,240,2024-03-17,seq_011,8,16,2
+job_0095,ian60,Model Evaluation,"ml,evaluation,indexing",completed,180,2024-03-17,seq_099,8,8,4
+job_0454,jrusso,Video Rendering,"video,rendering,deployment,api,gpu",completed,30,2024-03-17,seq_178,2,64,4
+job_0092,morganlinda,Video Rendering,"video,rendering,nlp,pipeline,gpu",completed,240,2024-03-17,seq_102,8,16,4
+job_0721,lreid,Data Preprocessing,"data,preprocessing,encryption,geospatial,nlp",completed,60,2024-03-17,seq_086,16,8,1
+job_0806,nicoleortiz,Report Generation,"geospatial,report,api,visualization",completed,240,2024-03-17,seq_045,4,8,2
+job_0696,parsonsmackenzie,Report Generation,"report,testing,visualization,api,indexing",pending,60,2024-03-17,seq_164,2,32,0
+job_0780,nicoleortiz,ETL Job,"etl,forecasting,data pipeline,streaming,nlp",completed,60,2024-03-17,seq_053,8,64,0
+job_0021,owilliams,Video Rendering,"video,rendering,cloud,indexing,gpu",completed,180,2024-03-17,seq_046,2,64,2
+job_0917,gateschristopher,ETL Job,"etl,testing,data pipeline,compression",completed,60,2024-03-17,seq_101,2,16,1
+job_0261,gateschristopher,Web Scraping,"streaming,benchmarking,scraping,automation",completed,60,2024-03-17,seq_042,4,64,2
+job_0465,gmitchell,ML Model Training,"ml,training,streaming,indexing,gpu",completed,120,2024-03-17,seq_162,16,8,1
+job_0182,hannahfoster,Model Evaluation,"ml,evaluation,indexing",failed,30,2024-03-17,seq_162,2,32,0
+job_0014,hannahfoster,Database Backup,"forecasting,geospatial,backup,database",pending,120,2024-03-17,seq_169,8,8,4
+job_0235,joshualuna,Web Scraping,"automation,encryption,cloud,pipeline,scraping",completed,240,2024-03-17,seq_040,8,16,0
+job_0733,christopher96,Data Preprocessing,"geospatial,data,preprocessing",running,180,2024-03-17,seq_137,16,8,4
+job_0391,morganlinda,Security Scan,"forecasting,security,scan,indexing",completed,60,2024-03-17,seq_049,2,64,1
+job_0225,gmitchell,Report Generation,"testing,report,visualization",completed,30,2024-03-17,seq_078,2,8,0
+job_0650,wongkenneth,Web Scraping,"streaming,scraping,automation,cloud",completed,180,2024-03-17,seq_095,4,16,1
+job_0162,parsonsmackenzie,Data Preprocessing,"data,preprocessing,geospatial,streaming,nlp",completed,30,2024-03-17,seq_168,4,16,4
+job_0510,danieljones,Security Scan,"security,scan,indexing",running,60,2024-03-17,seq_179,2,8,1
+job_0405,lreid,Data Preprocessing,"encryption,testing,data,preprocessing",completed,120,2024-03-17,seq_140,4,64,1
+job_0452,gateschristopher,Video Rendering,"video,rendering,testing,nlp,gpu",completed,30,2024-03-17,seq_072,2,8,1
+job_0410,michaelpatterson,Data Preprocessing,"image,data,preprocessing",pending,60,2024-03-17,seq_137,16,32,2
+job_0581,owilliams,Video Rendering,"video,rendering,encryption,streaming,gpu",running,60,2024-03-17,seq_071,8,16,4
+job_0889,hannahfoster,Video Rendering,"video,rendering,image,indexing,gpu",failed,120,2024-03-17,seq_075,8,32,1
+job_0233,cameronstephen,Video Rendering,"compression,video,rendering,cloud,gpu",failed,180,2024-03-17,seq_146,4,32,2
+job_0256,christopher96,Database Backup,"backup,image,llm,cloud,database",completed,30,2024-03-17,seq_154,4,16,4
+job_0234,parsonsmackenzie,Video Rendering,"video,rendering,testing,pipeline,gpu",completed,120,2024-03-17,seq_002,16,64,1
+job_0232,ian60,Data Preprocessing,"image,data,compression,preprocessing",running,120,2024-03-17,seq_062,2,64,2
+job_0001,jrusso,Web Scraping,"forecasting,scraping,automation,api",completed,120,2024-03-17,seq_062,2,32,0
+job_0343,burkeraymond,Database Backup,"backup,geospatial,deployment,llm,database",completed,60,2024-03-17,seq_040,8,64,0
+job_0120,gateschristopher,Model Evaluation,"ml,evaluation,benchmarking,llm,testing",completed,180,2024-03-17,seq_015,8,64,4
+job_0035,morganlinda,Security Scan,"security,benchmarking,scan,api",running,180,2024-03-17,seq_084,16,8,4
+job_0443,ian60,Data Preprocessing,"benchmarking,data,compression,preprocessing",failed,180,2024-03-17,seq_118,2,64,4
+job_0507,danieljones,Report Generation,"testing,report,visualization",completed,60,2024-03-17,seq_079,8,16,0
+job_0278,joshualuna,Report Generation,"report,compression,geospatial,deployment,visualization",completed,120,2024-03-17,seq_042,2,64,1
+job_0878,burkeraymond,Log Analysis,"deployment,benchmarking,logs,monitoring",completed,60,2024-03-17,seq_023,4,8,4
+job_0248,lreid,Database Backup,"streaming,encryption,backup,database",completed,120,2024-03-17,seq_196,16,32,4
+job_0686,jrusso,Database Backup,"image,testing,backup,database",completed,240,2024-03-17,seq_151,16,8,1
+job_0796,gmitchell,ETL Job,"etl,encryption,data pipeline",completed,120,2024-03-17,seq_002,2,16,4
+job_0560,gateschristopher,Log Analysis,"logs,geospatial,monitoring",completed,120,2024-03-17,seq_128,16,16,0
+job_0062,joshualuna,ML Model Training,"ml,training,forecasting,encryption,indexing,gpu",running,60,2024-03-17,seq_198,2,64,4
+job_0148,christopher96,Data Preprocessing,"benchmarking,data,compression,preprocessing",completed,60,2024-03-16,seq_003,2,16,1
+job_0101,ian60,Database Backup,"backup,deployment,api,indexing,database",completed,180,2024-03-16,seq_111,8,32,2
+job_0539,burkeraymond,Security Scan,"encryption,security,scan",completed,240,2024-03-16,seq_148,8,64,0
+job_0409,clong,Model Evaluation,"ml,evaluation,geospatial,deployment,streaming",completed,180,2024-03-16,seq_169,2,32,0
+job_0647,parsonsmackenzie,ETL Job,"etl,forecasting,data pipeline,compression",running,30,2024-03-16,seq_155,4,8,2
+job_0416,cbell,Report Generation,"report,encryption,image,testing,visualization",failed,60,2024-03-16,seq_067,8,64,2
+job_0606,lreid,Database Backup,"backup,geospatial,streaming,benchmarking,database",completed,240,2024-03-16,seq_187,2,64,0
+job_0565,gateschristopher,Video Rendering,"video,rendering,encryption,streaming,testing,gpu",completed,240,2024-03-16,seq_138,8,8,2
+job_0450,michaelpatterson,Log Analysis,"encryption,logs,monitoring",completed,120,2024-03-16,seq_060,8,8,0
+job_0708,joshualuna,Model Evaluation,"ml,evaluation,image",running,30,2024-03-16,seq_126,4,32,2
+job_0219,gmitchell,Web Scraping,"compression,automation,testing,llm,scraping",completed,240,2024-03-16,seq_132,4,32,0
+job_0891,lreid,Data Preprocessing,"data,compression,preprocessing,deployment,cloud",completed,240,2024-03-16,seq_059,4,8,1
+job_0997,lreid,Model Evaluation,"ml,evaluation,encryption,benchmarking,llm",running,240,2024-03-16,seq_160,2,8,0
+job_0467,burkeraymond,Database Backup,"backup,llm,database",completed,240,2024-03-16,seq_022,16,32,4
+job_0491,cameronstephen,Data Preprocessing,"data,preprocessing,forecasting,cloud,indexing",completed,120,2024-03-16,seq_107,8,8,0
+job_0982,wongkenneth,Database Backup,"deployment,backup,database",completed,180,2024-03-16,seq_133,8,32,1
+job_0088,owilliams,Model Evaluation,"ml,streaming,evaluation,api",completed,120,2024-03-16,seq_134,4,32,4
+job_0329,danieljones,Data Preprocessing,"nlp,pipeline,data,preprocessing",completed,120,2024-03-16,seq_058,4,16,4
+job_0484,danieljones,Model Evaluation,"ml,evaluation,benchmarking,cloud,indexing",completed,240,2024-03-16,seq_025,16,8,2
+job_0033,wongkenneth,Security Scan,"security,pipeline,scan",completed,30,2024-03-16,seq_099,8,8,0
+job_0864,joshualuna,Data Preprocessing,"benchmarking,data,preprocessing",completed,120,2024-03-16,seq_141,8,8,0
+job_0532,nicoleortiz,Model Evaluation,"ml,evaluation,benchmarking",completed,30,2024-03-16,seq_012,16,64,4
+job_0006,parsonsmackenzie,ML Model Training,"ml,forecasting,training,gpu",completed,240,2024-03-16,seq_101,8,64,1
+job_0701,ian60,Security Scan,"security,pipeline,scan",failed,60,2024-03-16,seq_116,16,8,4
+job_0711,parsonsmackenzie,Data Preprocessing,"testing,geospatial,data,preprocessing",completed,240,2024-03-16,seq_172,16,8,4
+job_0548,parsonsmackenzie,Video Rendering,"rendering,pipeline,gpu,video",failed,120,2024-03-16,seq_168,16,64,3
+job_0279,hannahfoster,Video Rendering,"video,rendering,image,deployment,gpu",failed,60,2024-03-16,seq_085,2,16,4
+job_0957,gmitchell,Video Rendering,"compression,video,rendering,pipeline,gpu",completed,180,2024-03-16,seq_173,4,32,4
+job_0812,cameronstephen,Security Scan,"forecasting,security,image,scan",pending,60,2024-03-16,seq_042,4,32,4
+job_0335,cory15,Web Scraping,"encryption,scraping,automation",completed,240,2024-03-16,seq_019,16,64,0
+job_0538,cory15,ETL Job,"api,etl,image,data pipeline,cloud",completed,60,2024-03-16,seq_024,4,8,1
+job_0461,clong,Database Backup,"forecasting,benchmarking,backup,database",completed,60,2024-03-16,seq_039,4,8,4
+job_0893,ian60,Report Generation,"pipeline,encryption,report,visualization",completed,30,2024-03-16,seq_120,16,64,4
+job_0458,danieljones,Model Evaluation,"ml,evaluation,benchmarking,compression",completed,120,2024-03-16,seq_150,2,32,0
+job_0406,christopher96,Model Evaluation,"ml,pipeline,evaluation",completed,180,2024-03-16,seq_186,4,8,4
+job_0090,cameronstephen,ML Model Training,"ml,training,gpu,nlp",running,60,2024-03-16,seq_174,4,8,2
+job_0348,nicoleortiz,Web Scraping,"automation,encryption,geospatial,benchmarking,scraping",pending,60,2024-03-16,seq_103,4,16,4
+job_0857,wongkenneth,ML Model Training,"ml,training,image,cloud,pipeline,gpu",running,180,2024-03-16,seq_185,16,64,4
+job_0094,nicoleortiz,Security Scan,"streaming,scan,llm,nlp,security",completed,240,2024-03-16,seq_195,4,64,4
+job_0668,cbell,Data Preprocessing,"data,llm,preprocessing",completed,60,2024-03-16,seq_114,2,16,0
+job_0818,morganlinda,Report Generation,"report,forecasting,geospatial,visualization,nlp",completed,240,2024-03-16,seq_046,8,8,0
+job_0189,morganlinda,Report Generation,"image,report,visualization",completed,240,2024-03-16,seq_114,8,32,1
+job_0269,clong,Model Evaluation,"ml,evaluation,compression,testing,cloud",failed,240,2024-03-16,seq_082,8,8,1
+job_0748,michaelpatterson,Database Backup,"backup,llm,database",completed,60,2024-03-16,seq_054,16,8,1
+job_0993,gateschristopher,ML Model Training,"ml,training,forecasting,indexing,gpu",completed,180,2024-03-16,seq_141,16,16,4
+job_0446,wongkenneth,Log Analysis,"logs,monitoring,image,deployment,pipeline",completed,60,2024-03-16,seq_173,8,64,4
+job_0273,wongkenneth,Data Preprocessing,"streaming,data,preprocessing",completed,180,2024-03-16,seq_197,4,32,0
+job_0521,burkeraymond,Web Scraping,"nlp,scraping,automation",completed,60,2024-03-16,seq_150,2,64,1
+job_0363,nicoleortiz,Model Evaluation,"ml,evaluation,forecasting,image,pipeline",completed,240,2024-03-16,seq_106,8,8,4
+job_0068,gmitchell,Web Scraping,"automation,geospatial,testing,cloud,scraping",completed,240,2024-03-16,seq_130,4,32,1
+job_0959,cory15,Data Preprocessing,"nlp,image,data,preprocessing",completed,120,2024-03-16,seq_150,8,32,0
+job_0894,morganlinda,Database Backup,"testing,backup,database",completed,60,2024-03-16,seq_072,2,64,4
+job_0645,clong,Log Analysis,"logs,monitoring,forecasting,testing,benchmarking",failed,30,2024-03-16,seq_141,16,8,1
+job_0652,danieljones,Security Scan,"nlp,security,benchmarking,scan",running,60,2024-03-16,seq_096,16,64,4
+job_0926,owilliams,ML Model Training,"ml,training,gpu,llm",failed,30,2024-03-16,seq_057,2,8,1
+job_0828,hannahfoster,Data Preprocessing,"image,data,preprocessing",running,60,2024-03-16,seq_080,2,32,0
+job_0034,owilliams,ML Model Training,"ml,training,benchmarking,testing,gpu",pending,60,2024-03-16,seq_091,16,32,4
+job_0719,wongkenneth,Web Scraping,"streaming,scraping,automation,cloud",completed,60,2024-03-16,seq_015,8,32,1
+job_0506,ian60,Data Preprocessing,"benchmarking,data,preprocessing",completed,240,2024-03-16,seq_170,2,64,1
+job_0362,nicoleortiz,Database Backup,"backup,forecasting,streaming,llm,database",completed,180,2024-03-16,seq_035,4,32,0
+job_0289,ian60,Report Generation,"deployment,report,visualization",completed,120,2024-03-16,seq_054,2,16,1
+job_0778,lreid,Model Evaluation,"ml,evaluation,encryption,image,pipeline",running,60,2024-03-16,seq_181,16,32,0
+job_0562,hannahfoster,Video Rendering,"video,rendering,forecasting,deployment,indexing,gpu",completed,180,2024-03-16,seq_101,4,32,2
+job_0610,nicoleortiz,Data Preprocessing,"data,preprocessing,forecasting,geospatial,pipeline",completed,60,2024-03-16,seq_148,8,64,1
+job_0813,clong,Security Scan,"forecasting,security,benchmarking,scan",completed,180,2024-03-16,seq_022,16,8,2
+job_0903,cameronstephen,Report Generation,"indexing,report,compression,visualization",failed,240,2024-03-16,seq_072,16,16,1
+job_0077,gmitchell,Security Scan,"security,pipeline,scan",completed,30,2024-03-16,seq_120,16,64,0
+job_0841,danieljones,Video Rendering,"video,rendering,deployment,testing,api,gpu",failed,30,2024-03-16,seq_097,2,32,4
+job_0266,parsonsmackenzie,ETL Job,"compression,etl,data pipeline,benchmarking,testing",completed,120,2024-03-16,seq_049,16,8,2
+job_0692,gmitchell,Security Scan,"security,scan,llm",running,240,2024-03-16,seq_137,8,32,1
+job_0637,cameronstephen,ETL Job,"etl,data pipeline,testing,pipeline,indexing",completed,60,2024-03-16,seq_168,8,64,4
+job_0319,jrusso,Video Rendering,"rendering,gpu,cloud,video",completed,30,2024-03-16,seq_013,8,64,4
+job_0430,jrusso,Video Rendering,"video,rendering,streaming,indexing,gpu",pending,180,2024-03-16,seq_148,8,16,4
+job_0317,ian60,Report Generation,"report,api,visualization",completed,60,2024-03-16,seq_128,16,16,0
+job_0900,cameronstephen,Model Evaluation,"ml,evaluation,encryption,deployment",failed,120,2024-03-16,seq_029,2,64,4
+job_0872,michaelpatterson,ML Model Training,"ml,training,compression,streaming,nlp,gpu",completed,30,2024-03-16,seq_062,16,64,2
+job_0785,gmitchell,Log Analysis,"logs,monitoring,forecasting,image,streaming",pending,120,2024-03-16,seq_137,2,16,0
+job_0131,burkeraymond,Report Generation,"report,compression,encryption,image,visualization",completed,30,2024-03-16,seq_094,16,16,1
+job_0313,clong,Data Preprocessing,"data,preprocessing,benchmarking,llm,cloud",completed,60,2024-03-16,seq_178,2,8,2
+job_0644,joshualuna,Data Preprocessing,"benchmarking,data,api,preprocessing",completed,240,2024-03-16,seq_115,4,64,0
+job_0479,cameronstephen,Log Analysis,"logs,monitoring,image,geospatial,pipeline",completed,30,2024-03-16,seq_111,2,16,2
+job_0392,lreid,Model Evaluation,"ml,evaluation,image,encryption,testing",failed,60,2024-03-16,seq_102,2,16,2
+job_0576,nicoleortiz,Data Preprocessing,"testing,data,preprocessing",completed,60,2024-03-16,seq_149,16,8,0
+job_0919,ian60,Log Analysis,"logs,indexing,compression,monitoring",completed,60,2024-03-16,seq_097,2,16,4
+job_0382,hannahfoster,ETL Job,"etl,forecasting,data pipeline",completed,30,2024-03-16,seq_058,2,64,0
+job_0482,clong,Security Scan,"security,benchmarking,scan,indexing",completed,60,2024-03-16,seq_191,2,32,0
+job_0646,joshualuna,ML Model Training,"ml,training,encryption,gpu",completed,180,2024-03-16,seq_195,8,64,1
+job_0305,lreid,Web Scraping,"llm,scraping,automation",pending,60,2024-03-16,seq_132,4,8,1
+job_0513,morganlinda,Report Generation,"benchmarking,image,report,visualization",completed,120,2024-03-16,seq_058,4,32,2
+job_0404,jrusso,Data Preprocessing,"testing,data,compression,preprocessing",completed,240,2024-03-16,seq_105,4,64,1
+job_0459,gmitchell,Data Preprocessing,"data,llm,preprocessing",completed,60,2024-03-16,seq_177,8,32,1
+job_0057,gmitchell,Database Backup,"backup,geospatial,llm,pipeline,database",completed,180,2024-03-16,seq_064,8,8,2
+job_0670,lreid,ML Model Training,"ml,training,geospatial,cloud,gpu",completed,120,2024-03-16,seq_135,8,64,1
+job_0762,gmitchell,Log Analysis,"image,logs,geospatial,monitoring",completed,60,2024-03-16,seq_002,2,8,4
+job_0017,cbell,Report Generation,"report,compression,deployment,streaming,visualization",pending,30,2024-03-16,seq_063,2,32,4
+job_0549,cbell,ML Model Training,"ml,training,compression,api,pipeline,gpu",completed,60,2024-03-16,seq_095,8,8,2
+job_0571,burkeraymond,ML Model Training,"ml,training,image,encryption,gpu",completed,120,2024-03-16,seq_022,16,64,2
+job_0249,joshualuna,Security Scan,"security,pipeline,scan,llm",completed,180,2024-03-16,seq_148,4,8,4
+job_0720,gmitchell,Database Backup,"pipeline,backup,database",completed,120,2024-03-16,seq_154,8,64,1
+job_0730,parsonsmackenzie,Data Preprocessing,"encryption,data,compression,preprocessing",failed,180,2024-03-16,seq_174,16,64,2
+job_0555,cameronstephen,Security Scan,"testing,security,scan",completed,60,2024-03-16,seq_057,8,16,2
+job_0171,owilliams,Database Backup,"backup,cloud,database,api",completed,180,2024-03-16,seq_097,2,16,0
+job_0682,jrusso,Data Preprocessing,"streaming,data,preprocessing",completed,60,2024-03-16,seq_149,4,8,1
+job_0170,parsonsmackenzie,Report Generation,"report,encryption,deployment,benchmarking,visualization",completed,240,2024-03-16,seq_072,4,16,0
+job_0659,joshualuna,Video Rendering,"rendering,gpu,cloud,video",completed,180,2024-03-16,seq_163,8,16,4
+job_0724,gateschristopher,Report Generation,"report,compression,deployment,testing,visualization",completed,120,2024-03-16,seq_096,8,64,2
+job_0788,parsonsmackenzie,ETL Job,"etl,pipeline,data pipeline,nlp",completed,240,2024-03-16,seq_136,8,16,2
+job_0784,ian60,Video Rendering,"rendering,encryption,gpu,video",completed,120,2024-03-16,seq_052,2,16,1
+job_0986,morganlinda,Data Preprocessing,"forecasting,data,preprocessing",completed,60,2024-03-16,seq_140,2,32,1
+job_0246,gateschristopher,Video Rendering,"video,rendering,cloud,indexing,gpu",completed,60,2024-03-16,seq_159,4,32,2
+job_0706,owilliams,Security Scan,"security,image,scan,api",completed,240,2024-03-16,seq_024,2,8,4
+job_0040,cory15,ETL Job,"etl,data pipeline,benchmarking,testing,nlp",running,30,2024-03-16,seq_135,4,16,1
+job_0448,parsonsmackenzie,Video Rendering,"video,rendering,benchmarking,cloud,indexing,gpu",completed,240,2024-03-16,seq_127,16,32,4
+job_0697,michaelpatterson,Report Generation,"report,compression,visualization",completed,240,2024-03-16,seq_003,8,32,2
+job_0220,morganlinda,Video Rendering,"video,rendering,benchmarking,api,gpu",completed,30,2024-03-16,seq_197,4,16,1
+job_0930,joshualuna,Video Rendering,"video,rendering,geospatial,pipeline,gpu",running,60,2024-03-16,seq_057,4,32,3
+job_0739,owilliams,ETL Job,"etl,deployment,data pipeline,testing",completed,240,2024-03-16,seq_150,16,8,2
+job_0810,nicoleortiz,Video Rendering,"rendering,image,gpu,video",completed,30,2024-03-16,seq_196,8,32,2
+job_0425,cameronstephen,ML Model Training,"ml,training,image,deployment,indexing,gpu",completed,30,2024-03-16,seq_142,16,32,2
+job_0702,gmitchell,Report Generation,"image,report,visualization",running,60,2024-03-16,seq_189,16,16,1
+job_0844,christopher96,ETL Job,"etl,geospatial,data pipeline,api",failed,240,2024-03-16,seq_035,8,64,4
+job_0127,cory15,Data Preprocessing,"data,preprocessing,encryption,benchmarking,cloud",failed,30,2024-03-16,seq_029,2,64,4
+job_0481,gateschristopher,ML Model Training,"ml,training,gpu,nlp",completed,30,2024-03-16,seq_006,16,16,4
+job_0592,michaelpatterson,Report Generation,"report,encryption,streaming,testing,visualization",failed,30,2024-03-16,seq_196,2,8,1
+job_0987,hannahfoster,ML Model Training,"ml,training,geospatial,nlp,gpu",completed,180,2024-03-16,seq_042,16,16,1
+job_0691,gmitchell,Model Evaluation,"ml,evaluation,llm,cloud",completed,30,2024-03-16,seq_084,16,32,0
+job_0229,lreid,ETL Job,"etl,data pipeline,api",completed,240,2024-03-16,seq_076,2,64,2
+job_0206,parsonsmackenzie,ML Model Training,"ml,training,benchmarking,gpu",completed,30,2024-03-16,seq_097,8,8,4
+job_0846,cory15,Web Scraping,"forecasting,pipeline,scraping,automation",failed,180,2024-03-16,seq_123,2,16,1
+job_0423,morganlinda,Data Preprocessing,"data,compression,preprocessing,benchmarking,api",completed,120,2024-03-16,seq_183,4,8,1
+job_0428,wongkenneth,Video Rendering,"compression,video,forecasting,rendering,gpu",completed,240,2024-03-16,seq_124,4,16,2
+job_0361,jrusso,Video Rendering,"video,rendering,testing,indexing,gpu",completed,240,2024-03-16,seq_140,16,32,1
+job_0359,parsonsmackenzie,Web Scraping,"deployment,streaming,scraping,automation",completed,180,2024-03-16,seq_163,4,8,0
+job_0277,hannahfoster,Report Generation,"forecasting,pipeline,report,visualization",pending,180,2024-03-16,seq_111,16,8,4
+job_0527,hannahfoster,Video Rendering,"compression,video,rendering,geospatial,gpu",completed,30,2024-03-16,seq_098,16,32,1
+job_0091,clong,Video Rendering,"video,rendering,llm,cloud,nlp,gpu",failed,120,2024-03-16,seq_079,4,16,2
+job_0297,joshualuna,Log Analysis,"logs,geospatial,llm,monitoring",completed,30,2024-03-16,seq_173,16,8,4
+job_0309,nicoleortiz,Report Generation,"compression,report,llm,visualization",completed,120,2024-03-16,seq_014,4,8,4
+job_0032,morganlinda,Security Scan,"image,scan,api,security,indexing",running,240,2024-03-16,seq_028,4,64,4
+job_0608,burkeraymond,Web Scraping,"compression,automation,benchmarking,pipeline,scraping",completed,120,2024-03-16,seq_170,2,32,0
+job_0408,gateschristopher,Model Evaluation,"ml,evaluation,nlp",completed,30,2024-03-16,seq_016,8,32,1
+job_0437,nicoleortiz,Data Preprocessing,"data,llm,preprocessing",completed,180,2024-03-16,seq_019,8,8,2
+job_0651,danieljones,Model Evaluation,"ml,forecasting,evaluation,benchmarking",completed,30,2024-03-16,seq_131,16,16,2
+job_0604,nicoleortiz,Security Scan,"security,scan,indexing",completed,120,2024-03-16,seq_011,2,16,4
+job_0072,hannahfoster,Report Generation,"image,report,compression,visualization",completed,180,2024-03-16,seq_062,8,64,2
+job_0616,christopher96,Log Analysis,"logs,monitoring,deployment,pipeline,indexing",completed,30,2024-03-16,seq_094,2,8,2
+job_0196,michaelpatterson,Log Analysis,"logs,monitoring,compression,benchmarking,api",running,30,2024-03-16,seq_197,4,8,1
+job_0675,morganlinda,Data Preprocessing,"pipeline,benchmarking,data,preprocessing",completed,60,2024-03-16,seq_027,2,32,2
+job_0253,danieljones,Model Evaluation,"ml,evaluation,compression",running,120,2024-03-16,seq_096,8,64,1
+job_0142,hannahfoster,Data Preprocessing,"testing,data,cloud,preprocessing",pending,60,2024-03-16,seq_113,16,8,4
+job_0567,cameronstephen,ETL Job,"etl,indexing,data pipeline",running,240,2024-03-16,seq_015,2,32,0
+job_0407,gmitchell,ML Model Training,"ml,training,compression,nlp,gpu",failed,180,2024-03-16,seq_089,16,32,1
+job_0321,joshualuna,Log Analysis,"nlp,logs,llm,monitoring",completed,120,2024-03-16,seq_108,8,8,1
+job_0689,cbell,Log Analysis,"logs,llm,indexing,monitoring",completed,120,2024-03-16,seq_093,8,8,1
+job_0836,cory15,ETL Job,"etl,forecasting,encryption,data pipeline,testing",completed,60,2024-03-16,seq_127,16,8,0
+job_0451,burkeraymond,ML Model Training,"ml,training,geospatial,gpu",running,240,2024-03-16,seq_144,2,16,4
+job_0669,cbell,ETL Job,"etl,data pipeline,api",failed,60,2024-03-16,seq_062,4,64,4
+job_0515,ian60,Video Rendering,"compression,video,rendering,image,llm,gpu",completed,240,2024-03-16,seq_094,4,16,1
+job_0349,wongkenneth,Security Scan,"geospatial,deployment,streaming,scan,security",failed,240,2024-03-16,seq_152,2,8,1
+job_0526,christopher96,Web Scraping,"pipeline,scraping,automation",completed,120,2024-03-16,seq_021,2,32,0
+job_0494,morganlinda,Model Evaluation,"ml,evaluation,image,llm,nlp",completed,120,2024-03-16,seq_168,4,8,2
+job_0598,clong,Video Rendering,"rendering,indexing,gpu,video",completed,30,2024-03-16,seq_172,16,32,4
+job_0145,cameronstephen,ML Model Training,"ml,training,forecasting,streaming,indexing,gpu",completed,180,2024-03-16,seq_066,2,32,1
+job_0139,christopher96,Database Backup,"pipeline,backup,compression,database",failed,120,2024-03-16,seq_198,8,64,2
+job_0344,owilliams,Database Backup,"nlp,forecasting,backup,database",completed,120,2024-03-16,seq_190,4,32,1
+job_0282,burkeraymond,Video Rendering,"deployment,rendering,gpu,video",completed,120,2024-03-16,seq_111,8,32,4
+job_0949,christopher96,ETL Job,"etl,testing,data pipeline",running,30,2024-03-16,seq_061,16,64,4
+job_0556,nicoleortiz,Database Backup,"backup,deployment,testing,llm,database",completed,30,2024-03-16,seq_061,4,8,0
+job_0899,owilliams,ML Model Training,"ml,training,gpu,api",completed,120,2024-03-16,seq_164,16,16,4
+job_0487,hannahfoster,Log Analysis,"logs,monitoring,deployment,cloud,nlp",completed,180,2024-03-16,seq_003,4,16,2
+job_0468,joshualuna,Data Preprocessing,"forecasting,indexing,data,preprocessing",completed,60,2024-03-16,seq_134,16,32,4
+job_0438,lreid,Log Analysis,"pipeline,logs,geospatial,monitoring",completed,180,2024-03-16,seq_185,16,8,0
+job_0851,christopher96,ML Model Training,"ml,training,forecasting,testing,gpu",failed,120,2024-03-16,seq_105,8,8,4
+job_0948,clong,Video Rendering,"rendering,gpu,cloud,video",completed,180,2024-03-16,seq_029,4,8,3
+job_0304,joshualuna,Video Rendering,"video,rendering,deployment,testing,gpu",running,60,2024-03-16,seq_073,4,16,2
+job_0063,nicoleortiz,Database Backup,"backup,image,api,pipeline,database",running,30,2024-03-16,seq_091,4,64,4
+job_0902,hannahfoster,Database Backup,"backup,forecasting,geospatial,deployment,database",completed,60,2024-03-16,seq_069,8,8,0
+job_0439,nicoleortiz,ML Model Training,"ml,training,image,benchmarking,gpu",completed,30,2024-03-16,seq_153,2,8,4
+job_0662,christopher96,ML Model Training,"ml,training,image,testing,pipeline,gpu",completed,240,2024-03-16,seq_156,16,8,2
+job_0685,gmitchell,Video Rendering,"video,rendering,encryption,api,gpu",completed,30,2024-03-16,seq_120,8,64,1
+job_0731,parsonsmackenzie,Video Rendering,"video,rendering,llm,nlp,indexing,gpu",failed,180,2024-03-16,seq_006,8,32,2
+job_0770,wongkenneth,Database Backup,"encryption,backup,database",running,120,2024-03-16,seq_005,4,8,1
+job_0265,michaelpatterson,Security Scan,"security,scan,geospatial",completed,180,2024-03-16,seq_136,2,8,4
+job_0084,christopher96,ML Model Training,"ml,training,forecasting,api,gpu,cloud",completed,60,2024-03-16,seq_141,2,16,1
+job_0311,nicoleortiz,Log Analysis,"image,logs,benchmarking,monitoring",completed,30,2024-03-16,seq_118,16,8,2
+job_0587,cory15,Report Generation,"testing,report,llm,visualization",failed,180,2024-03-16,seq_048,4,32,4
+job_0380,nicoleortiz,ETL Job,"etl,encryption,data pipeline,llm,pipeline",completed,30,2024-03-16,seq_080,2,16,2
+job_0472,parsonsmackenzie,Web Scraping,"scraping,automation,api",completed,180,2024-03-16,seq_145,4,64,2
+job_0037,parsonsmackenzie,Log Analysis,"testing,forecasting,logs,monitoring",completed,180,2024-03-16,seq_052,8,16,1
+job_0868,lreid,Data Preprocessing,"forecasting,data,preprocessing",completed,240,2024-03-16,seq_131,8,64,1
+job_0653,gateschristopher,ETL Job,"etl,image,indexing,data pipeline",completed,180,2024-03-16,seq_130,16,16,2
+job_0322,morganlinda,ML Model Training,"ml,training,image,gpu",completed,240,2024-03-16,seq_060,8,64,2
+job_0015,jrusso,Report Generation,"deployment,report,visualization",failed,240,2024-03-16,seq_188,4,16,2
+job_0417,jrusso,Video Rendering,"video,rendering,geospatial,benchmarking,api,gpu",running,30,2024-03-16,seq_131,16,64,2
+job_0773,cameronstephen,ML Model Training,"ml,training,gpu,nlp",running,30,2024-03-16,seq_039,2,8,2
+job_0775,cbell,Video Rendering,"video,rendering,geospatial,deployment,gpu",completed,30,2024-03-16,seq_172,16,32,1
+job_0259,clong,Security Scan,"security,scan,geospatial,indexing",failed,240,2024-03-16,seq_093,4,64,1
+job_0981,ian60,Data Preprocessing,"streaming,data,preprocessing",failed,180,2024-03-16,seq_028,2,16,4
+job_0729,joshualuna,Database Backup,"pipeline,backup,database",completed,30,2024-03-16,seq_052,16,32,4
+job_0626,joshualuna,Report Generation,"pipeline,report,visualization",running,60,2024-03-16,seq_112,8,16,4
+job_0511,lreid,Log Analysis,"benchmarking,logs,monitoring",completed,240,2024-03-16,seq_029,8,8,2
+job_0849,cbell,Log Analysis,"testing,logs,monitoring",failed,120,2024-03-16,seq_162,16,32,2
+job_0758,danieljones,Database Backup,"backup,llm,database",completed,60,2024-03-16,seq_096,4,32,0
+job_0147,hannahfoster,Report Generation,"report,compression,geospatial,deployment,visualization",running,60,2024-03-16,seq_010,2,8,2
+job_0369,nicoleortiz,Model Evaluation,"ml,evaluation,streaming,testing,nlp",completed,240,2024-03-16,seq_092,4,16,4
+job_0805,burkeraymond,ML Model Training,"ml,training,benchmarking,nlp,gpu",completed,120,2024-03-16,seq_117,4,16,1
+job_0908,gateschristopher,ETL Job,"etl,data pipeline,nlp",completed,30,2024-03-16,seq_046,8,32,0
+job_0995,jrusso,Log Analysis,"encryption,logs,nlp,monitoring",completed,120,2024-03-16,seq_058,16,8,1
+job_0676,gateschristopher,Database Backup,"backup,encryption,geospatial,nlp,database",completed,240,2024-03-16,seq_198,2,16,0
+job_0270,cory15,Data Preprocessing,"compression,data,api,preprocessing",pending,60,2024-03-16,seq_021,8,16,4
+job_0649,gmitchell,Log Analysis,"benchmarking,logs,monitoring",failed,240,2024-03-16,seq_107,2,16,1
+job_0427,wongkenneth,Web Scraping,"automation,geospatial,llm,cloud,scraping",running,60,2024-03-16,seq_191,16,64,2
+job_0306,gateschristopher,Model Evaluation,"ml,evaluation,indexing",completed,180,2024-03-16,seq_114,4,32,4
+job_0202,joshualuna,Web Scraping,"automation,deployment,pipeline,indexing,scraping",running,60,2024-03-16,seq_197,2,16,0
+job_0573,michaelpatterson,Data Preprocessing,"data,preprocessing,streaming,api,pipeline",completed,60,2024-03-16,seq_185,2,16,1
+job_0489,michaelpatterson,Security Scan,"security,scan,streaming",failed,120,2024-03-16,seq_077,4,64,4
+job_0477,danieljones,Web Scraping,"automation,encryption,benchmarking,pipeline,scraping",running,180,2024-03-16,seq_072,2,32,0
+job_0055,burkeraymond,Model Evaluation,"ml,evaluation,indexing",failed,240,2024-03-16,seq_085,4,8,4
+job_0276,owilliams,Security Scan,"security,scan,api",completed,240,2024-03-16,seq_157,2,8,0
+job_0951,cameronstephen,Data Preprocessing,"data,llm,preprocessing",completed,30,2024-03-16,seq_096,8,16,1
+job_0462,clong,Video Rendering,"video,rendering,geospatial,deployment,gpu",completed,180,2024-03-16,seq_194,8,16,1
+job_0642,gateschristopher,Video Rendering,"rendering,pipeline,gpu,video",completed,30,2024-03-16,seq_121,16,8,4
+job_0028,danieljones,Report Generation,"streaming,image,report,visualization",completed,60,2024-03-16,seq_073,8,64,4
+job_0237,lreid,ML Model Training,"ml,training,forecasting,testing,gpu",completed,60,2024-03-16,seq_056,2,32,1
+job_0009,gmitchell,Log Analysis,"logs,indexing,monitoring",completed,180,2024-03-16,seq_055,16,16,2
+job_0293,joshualuna,ML Model Training,"ml,training,testing,llm,indexing,gpu",completed,60,2024-03-16,seq_034,4,64,1
+job_0977,nicoleortiz,Database Backup,"encryption,backup,database",failed,180,2024-03-16,seq_007,8,16,0
+job_0039,hannahfoster,Model Evaluation,"ml,evaluation,api",completed,240,2024-03-16,seq_098,4,8,1
+job_0302,lreid,Database Backup,"geospatial,backup,database",completed,60,2024-03-16,seq_095,4,64,0
+job_0703,danieljones,Model Evaluation,"ml,evaluation,deployment",completed,120,2024-03-16,seq_048,2,32,1
+job_0024,lreid,Database Backup,"backup,forecasting,encryption,image,database",failed,240,2024-03-16,seq_147,2,32,2
+job_0585,michaelpatterson,ML Model Training,"ml,training,streaming,testing,nlp,gpu",running,180,2024-03-16,seq_028,2,64,1
+job_0666,danieljones,Log Analysis,"image,logs,indexing,monitoring",failed,120,2024-03-16,seq_021,4,32,4
+job_0512,christopher96,Report Generation,"report,compression,encryption,visualization,cloud",completed,180,2024-03-16,seq_150,2,8,1
+job_0875,cbell,Web Scraping,"scraping,automation,cloud",failed,180,2024-03-16,seq_160,16,64,2
+job_0141,burkeraymond,Video Rendering,"video,rendering,geospatial,llm,gpu",running,60,2024-03-16,seq_074,16,64,4
+job_0613,hannahfoster,Report Generation,"encryption,report,visualization",failed,120,2024-03-16,seq_044,2,8,0
+job_0060,hannahfoster,Log Analysis,"encryption,pipeline,logs,monitoring",failed,120,2024-03-16,seq_185,4,16,2
+job_0151,cbell,Web Scraping,"streaming,scraping,automation",running,180,2024-03-16,seq_159,2,8,1
+job_0414,cory15,Web Scraping,"scraping,automation,cloud",completed,30,2024-03-16,seq_068,8,8,2
+job_0500,gmitchell,Log Analysis,"testing,logs,monitoring",failed,120,2024-03-16,seq_051,2,32,4
+job_0044,michaelpatterson,Database Backup,"backup,testing,api,pipeline,database",completed,240,2024-03-16,seq_130,2,16,1
+job_0713,joshualuna,Report Generation,"deployment,report,visualization",completed,180,2024-03-16,seq_040,4,16,0
+job_0717,ian60,Database Backup,"backup,image,geospatial,cloud,database",failed,120,2024-03-16,seq_025,4,32,2
+job_0383,lreid,ML Model Training,"ml,training,gpu,nlp",completed,240,2024-03-16,seq_060,4,64,2
+job_0804,parsonsmackenzie,ETL Job,"compression,etl,data pipeline,benchmarking,api",completed,240,2024-03-16,seq_183,16,8,2
+job_0941,joshualuna,Data Preprocessing,"nlp,data,llm,preprocessing",completed,30,2024-03-16,seq_076,16,64,0
+job_0568,hannahfoster,Model Evaluation,"ml,evaluation,nlp",completed,120,2024-03-16,seq_003,4,32,2
+job_0638,gmitchell,Data Preprocessing,"data,compression,preprocessing,testing,indexing",failed,180,2024-03-16,seq_127,16,16,4
+job_0177,ian60,Report Generation,"testing,image,report,visualization",completed,30,2024-03-16,seq_153,8,32,0
+job_0955,cory15,Database Backup,"backup,compression,database",completed,240,2024-03-16,seq_059,16,32,0
+job_0257,wongkenneth,Data Preprocessing,"pipeline,data,preprocessing",failed,60,2024-03-16,seq_135,16,32,2
+job_0377,morganlinda,Model Evaluation,"ml,streaming,evaluation,compression",completed,30,2024-03-16,seq_142,4,32,1
+job_0132,michaelpatterson,Report Generation,"image,report,api,visualization",running,180,2024-03-16,seq_150,2,16,0
+job_0814,cbell,Model Evaluation,"ml,evaluation,testing,nlp,indexing",completed,120,2024-03-16,seq_190,16,32,0
+job_0116,cbell,Data Preprocessing,"data,api,preprocessing",completed,60,2024-03-16,seq_162,2,8,1
+job_1000,lreid,Security Scan,"security,benchmarking,scan,llm",completed,240,2024-03-16,seq_016,2,8,0
+job_0579,nicoleortiz,Web Scraping,"streaming,scraping,automation",failed,180,2024-03-16,seq_119,8,16,4
+job_0326,cory15,Log Analysis,"deployment,streaming,logs,monitoring",running,120,2024-03-16,seq_146,2,8,1
+job_0558,cameronstephen,Video Rendering,"rendering,gpu,api,video",pending,180,2024-03-16,seq_179,16,8,1
+job_0620,cameronstephen,Model Evaluation,"ml,evaluation,compression,nlp",running,30,2024-03-16,seq_149,4,8,4
+job_0912,michaelpatterson,Model Evaluation,"ml,evaluation,indexing",failed,240,2024-03-16,seq_083,16,8,0
+job_0911,jrusso,Log Analysis,"logs,cloud,monitoring",failed,180,2024-03-16,seq_154,8,32,4
+job_0615,joshualuna,Security Scan,"encryption,security,scan,api",completed,120,2024-03-16,seq_010,8,16,1
+job_0683,owilliams,ETL Job,"etl,streaming,data pipeline",completed,180,2024-03-16,seq_172,8,16,2
+job_0516,cory15,ETL Job,"etl,indexing,data pipeline",failed,60,2024-03-16,seq_175,2,32,0
+job_0575,burkeraymond,Video Rendering,"rendering,encryption,gpu,video",completed,240,2024-03-16,seq_083,8,32,4
+job_0342,gmitchell,Report Generation,"indexing,report,compression,visualization",completed,180,2024-03-16,seq_139,4,8,0
+job_0291,cory15,Report Generation,"report,compression,image,streaming,visualization",pending,180,2024-03-16,seq_126,8,64,2
+job_0486,wongkenneth,ML Model Training,"ml,training,geospatial,deployment,benchmarking,gpu",completed,180,2024-03-16,seq_111,4,16,2
+job_0204,michaelpatterson,Video Rendering,"compression,video,rendering,llm,gpu",completed,30,2024-03-16,seq_161,16,16,1
+job_0525,gmitchell,Log Analysis,"logs,monitoring,encryption,testing,benchmarking",completed,30,2024-03-16,seq_113,2,16,2
+job_0779,owilliams,Report Generation,"pipeline,report,visualization",failed,240,2024-03-16,seq_148,2,8,1
+job_0594,cbell,ETL Job,"etl,forecasting,data pipeline",completed,180,2024-03-16,seq_063,2,16,1
+job_0426,joshualuna,ETL Job,"etl,encryption,data pipeline,api,cloud",completed,180,2024-03-16,seq_124,16,32,2
+job_0184,clong,Web Scraping,"compression,automation,geospatial,nlp,scraping",completed,180,2024-03-16,seq_166,2,64,4
+job_0008,michaelpatterson,Security Scan,"security,scan,geospatial,api",completed,240,2024-03-16,seq_195,8,64,2
+job_0010,danieljones,Log Analysis,"nlp,benchmarking,logs,monitoring",completed,60,2024-03-16,seq_084,4,8,4
+job_0534,jrusso,Report Generation,"report,api,visualization,cloud,indexing",running,240,2024-03-16,seq_018,8,16,4
+job_0250,ian60,ETL Job,"etl,data pipeline,llm,api,indexing",running,240,2024-03-16,seq_148,2,16,2
+job_0155,christopher96,Database Backup,"deployment,benchmarking,backup,database",failed,180,2024-03-16,seq_199,2,16,2
+job_0845,gmitchell,ML Model Training,"ml,training,encryption,gpu",completed,60,2024-03-16,seq_140,8,16,4
+job_0339,clong,Video Rendering,"rendering,indexing,gpu,video",completed,30,2024-03-16,seq_104,4,32,4
+job_0619,owilliams,ML Model Training,"ml,pipeline,training,gpu",completed,120,2024-03-16,seq_049,4,16,1
+job_0925,cory15,Web Scraping,"benchmarking,scraping,automation",completed,30,2024-03-16,seq_124,4,32,0
+job_0285,christopher96,Web Scraping,"testing,scraping,automation",completed,180,2024-03-16,seq_007,2,32,1
+job_0983,gateschristopher,Data Preprocessing,"image,data,api,preprocessing",completed,120,2024-03-16,seq_150,4,16,2
+job_0753,cbell,Report Generation,"report,compression,visualization",completed,120,2024-03-16,seq_150,8,32,1
+job_0809,wongkenneth,Security Scan,"geospatial,scan,security,pipeline,indexing",completed,240,2024-03-16,seq_137,4,64,4
+job_0657,gmitchell,Log Analysis,"testing,benchmarking,logs,monitoring",completed,60,2024-03-16,seq_002,2,8,2
+job_0822,michaelpatterson,Security Scan,"geospatial,streaming,scan,cloud,security",completed,120,2024-03-16,seq_142,4,64,2
+job_0843,michaelpatterson,Security Scan,"deployment,security,benchmarking,scan",completed,120,2024-03-16,seq_187,8,8,1
+job_0776,ian60,Log Analysis,"forecasting,logs,monitoring",completed,180,2024-03-16,seq_156,2,8,2
+job_0200,ian60,Security Scan,"geospatial,scan,llm,cloud,security",completed,60,2024-03-16,seq_005,4,8,4
+job_0952,gmitchell,ETL Job,"etl,pipeline,data pipeline",running,120,2024-03-16,seq_003,4,8,1
+job_0732,gateschristopher,Web Scraping,"testing,scraping,automation",pending,60,2024-03-16,seq_199,8,8,4
+job_0011,burkeraymond,Data Preprocessing,"geospatial,testing,data,preprocessing",completed,120,2024-03-16,seq_047,2,8,2
+job_0390,parsonsmackenzie,Web Scraping,"nlp,scraping,automation,cloud",completed,120,2024-03-16,seq_200,16,8,2
+job_0193,gateschristopher,Log Analysis,"logs,monitoring,encryption,api,pipeline",completed,60,2024-03-16,seq_146,4,8,0
+job_0535,jrusso,Security Scan,"security,benchmarking,scan,api",running,30,2024-03-16,seq_047,8,64,1
+job_0966,clong,Video Rendering,"video,rendering,streaming,nlp,pipeline,gpu",completed,60,2024-03-16,seq_043,4,64,4
+job_0520,wongkenneth,Data Preprocessing,"forecasting,data,cloud,preprocessing",failed,120,2024-03-16,seq_073,8,64,4
+job_0442,danieljones,Log Analysis,"deployment,image,logs,monitoring",completed,30,2024-03-16,seq_167,2,32,0
+job_0333,morganlinda,Video Rendering,"rendering,image,gpu,video",running,180,2024-03-16,seq_145,2,64,4
+job_0797,ian60,Report Generation,"report,geospatial,testing,visualization,nlp",failed,240,2024-03-16,seq_094,2,32,4
+job_0923,cbell,ETL Job,"etl,indexing,data pipeline",completed,240,2024-03-16,seq_158,16,16,0
+job_0473,nicoleortiz,Database Backup,"nlp,backup,compression,database",completed,60,2024-03-16,seq_026,8,8,1
+job_0553,gateschristopher,Database Backup,"indexing,backup,llm,database",completed,180,2024-03-16,seq_078,2,32,4
+job_0898,hannahfoster,Video Rendering,"video,forecasting,rendering,image,testing,gpu",completed,60,2024-03-16,seq_172,8,16,2
+job_0315,christopher96,Report Generation,"report,geospatial,streaming,llm,visualization",running,120,2024-03-16,seq_192,8,8,0
+job_0470,cameronstephen,Log Analysis,"streaming,logs,monitoring",failed,240,2024-03-16,seq_128,8,32,0
+job_0617,hannahfoster,Database Backup,"streaming,backup,database",running,120,2024-03-16,seq_107,8,64,0
+job_0007,ian60,Report Generation,"indexing,report,llm,visualization",completed,30,2024-03-16,seq_007,8,8,1
+job_0331,owilliams,Web Scraping,"automation,forecasting,image,benchmarking,scraping",completed,30,2024-03-16,seq_142,16,16,4
+job_0230,cameronstephen,ML Model Training,"ml,forecasting,training,gpu",completed,240,2024-03-16,seq_051,16,8,1
+job_0083,danieljones,Log Analysis,"streaming,logs,indexing,monitoring",completed,180,2024-03-16,seq_063,8,16,1
+job_0740,michaelpatterson,Database Backup,"image,benchmarking,backup,database",completed,180,2024-03-16,seq_096,8,64,1
+job_0180,lreid,Model Evaluation,"ml,forecasting,evaluation",running,180,2024-03-16,seq_135,2,16,1
+job_0025,christopher96,Log Analysis,"logs,geospatial,indexing,monitoring",completed,60,2024-03-16,seq_144,8,8,2
+job_0542,clong,Web Scraping,"nlp,scraping,automation",completed,120,2024-03-16,seq_069,16,8,0
+job_0352,hannahfoster,Security Scan,"deployment,security,image,scan",completed,180,2024-03-16,seq_158,2,64,1
+job_0360,owilliams,Report Generation,"image,report,visualization",completed,30,2024-03-16,seq_061,8,16,2
+job_0969,ian60,Report Generation,"report,forecasting,geospatial,visualization,cloud",completed,240,2024-03-16,seq_143,4,32,1
+job_0495,parsonsmackenzie,Security Scan,"testing,security,pipeline,scan",completed,60,2024-03-16,seq_044,2,8,4
+job_0463,joshualuna,ETL Job,"etl,forecasting,indexing,data pipeline",completed,30,2024-03-16,seq_083,16,16,0
+job_0164,clong,Model Evaluation,"ml,evaluation,compression,cloud,nlp",completed,180,2024-03-16,seq_198,2,16,0
+job_0602,burkeraymond,Security Scan,"security,scan,streaming",completed,60,2024-03-16,seq_173,4,64,4
+job_0372,michaelpatterson,Data Preprocessing,"nlp,data,preprocessing",completed,180,2024-03-16,seq_048,8,64,1
+job_0345,jrusso,Model Evaluation,"ml,pipeline,evaluation,benchmarking",running,240,2024-03-16,seq_161,2,64,4
+job_0371,gateschristopher,Data Preprocessing,"testing,data,indexing,preprocessing",failed,240,2024-03-16,seq_125,16,32,4
+job_0389,clong,Security Scan,"testing,security,scan",completed,60,2024-03-16,seq_079,4,32,0
+job_0681,gateschristopher,Model Evaluation,"ml,streaming,evaluation,cloud",completed,240,2024-03-16,seq_082,2,32,4
+job_0885,cbell,Log Analysis,"logs,compression,monitoring",completed,30,2024-03-16,seq_119,4,16,2
+job_0636,clong,Security Scan,"deployment,scan,testing,nlp,security",completed,120,2024-03-16,seq_035,2,32,4
+job_0143,clong,Log Analysis,"pipeline,logs,benchmarking,monitoring",completed,180,2024-03-16,seq_137,4,64,2
+job_0324,lreid,Model Evaluation,"ml,evaluation,deployment,geospatial",failed,240,2024-03-16,seq_044,16,16,0
+job_0793,burkeraymond,Data Preprocessing,"pipeline,data,preprocessing",completed,30,2024-03-16,seq_033,4,32,1
+job_0961,cameronstephen,Database Backup,"forecasting,indexing,backup,database",failed,60,2024-03-16,seq_118,2,32,2
+job_0897,gmitchell,Report Generation,"report,compression,deployment,visualization,api",failed,120,2024-03-16,seq_098,8,16,0
+job_0100,wongkenneth,Security Scan,"security,image,scan",completed,120,2024-03-16,seq_076,16,32,1
+job_0318,michaelpatterson,Model Evaluation,"ml,evaluation,encryption,llm",running,120,2024-03-16,seq_111,4,64,2
+job_0457,morganlinda,Security Scan,"nlp,security,scan,indexing",failed,240,2024-03-16,seq_073,2,16,1
+job_0354,hannahfoster,Log Analysis,"logs,monitoring,compression,encryption,pipeline",completed,120,2024-03-16,seq_135,4,32,2
+job_0607,burkeraymond,Report Generation,"forecasting,encryption,report,visualization",completed,180,2024-03-16,seq_101,16,16,4
+job_0444,ian60,Video Rendering,"rendering,indexing,gpu,video",completed,120,2024-03-16,seq_020,4,16,1
+job_0115,parsonsmackenzie,Report Generation,"report,forecasting,encryption,streaming,visualization",running,240,2024-03-16,seq_141,16,64,2

@@ -1,0 +1,1127 @@
+[
+  {
+    "support":0.2272727273,
+    "itemsets":[
+      "ML Model Training",
+      "Report Generation"
+    ],
+    "length":2
+  },
+  {
+    "support":0.2070707071,
+    "itemsets":[
+      "Data Preprocessing",
+      "Report Generation"
+    ],
+    "length":2
+  },
+  {
+    "support":0.196969697,
+    "itemsets":[
+      "Database Backup",
+      "ML Model Training"
+    ],
+    "length":2
+  },
+  {
+    "support":0.196969697,
+    "itemsets":[
+      "ML Model Training",
+      "Model Evaluation"
+    ],
+    "length":2
+  },
+  {
+    "support":0.1818181818,
+    "itemsets":[
+      "ML Model Training",
+      "Data Preprocessing"
+    ],
+    "length":2
+  },
+  {
+    "support":0.1767676768,
+    "itemsets":[
+      "ETL Job",
+      "Security Scan"
+    ],
+    "length":2
+  },
+  {
+    "support":0.1767676768,
+    "itemsets":[
+      "Model Evaluation",
+      "Log Analysis"
+    ],
+    "length":2
+  },
+  {
+    "support":0.1767676768,
+    "itemsets":[
+      "ETL Job",
+      "Report Generation"
+    ],
+    "length":2
+  },
+  {
+    "support":0.1767676768,
+    "itemsets":[
+      "Data Preprocessing",
+      "Security Scan"
+    ],
+    "length":2
+  },
+  {
+    "support":0.1767676768,
+    "itemsets":[
+      "Data Preprocessing",
+      "Log Analysis"
+    ],
+    "length":2
+  },
+  {
+    "support":0.1717171717,
+    "itemsets":[
+      "Web Scraping",
+      "Data Preprocessing"
+    ],
+    "length":2
+  },
+  {
+    "support":0.1717171717,
+    "itemsets":[
+      "ML Model Training",
+      "Log Analysis"
+    ],
+    "length":2
+  },
+  {
+    "support":0.1717171717,
+    "itemsets":[
+      "Model Evaluation",
+      "Report Generation"
+    ],
+    "length":2
+  },
+  {
+    "support":0.1666666667,
+    "itemsets":[
+      "ETL Job",
+      "Data Preprocessing"
+    ],
+    "length":2
+  },
+  {
+    "support":0.1666666667,
+    "itemsets":[
+      "Data Preprocessing",
+      "Model Evaluation"
+    ],
+    "length":2
+  },
+  {
+    "support":0.1616161616,
+    "itemsets":[
+      "Database Backup",
+      "Report Generation"
+    ],
+    "length":2
+  },
+  {
+    "support":0.1565656566,
+    "itemsets":[
+      "Video Rendering",
+      "Report Generation"
+    ],
+    "length":2
+  },
+  {
+    "support":0.1565656566,
+    "itemsets":[
+      "Web Scraping",
+      "ML Model Training"
+    ],
+    "length":2
+  },
+  {
+    "support":0.1565656566,
+    "itemsets":[
+      "ML Model Training",
+      "Security Scan"
+    ],
+    "length":2
+  },
+  {
+    "support":0.1565656566,
+    "itemsets":[
+      "Log Analysis",
+      "Report Generation"
+    ],
+    "length":2
+  },
+  {
+    "support":0.1565656566,
+    "itemsets":[
+      "Security Scan",
+      "Report Generation"
+    ],
+    "length":2
+  },
+  {
+    "support":0.1565656566,
+    "itemsets":[
+      "Video Rendering",
+      "Log Analysis"
+    ],
+    "length":2
+  },
+  {
+    "support":0.1565656566,
+    "itemsets":[
+      "Web Scraping",
+      "Report Generation"
+    ],
+    "length":2
+  },
+  {
+    "support":0.1515151515,
+    "itemsets":[
+      "Database Backup",
+      "Log Analysis"
+    ],
+    "length":2
+  },
+  {
+    "support":0.1515151515,
+    "itemsets":[
+      "Web Scraping",
+      "Model Evaluation"
+    ],
+    "length":2
+  },
+  {
+    "support":0.1515151515,
+    "itemsets":[
+      "Video Rendering",
+      "Model Evaluation"
+    ],
+    "length":2
+  },
+  {
+    "support":0.1515151515,
+    "itemsets":[
+      "Database Backup",
+      "Web Scraping"
+    ],
+    "length":2
+  },
+  {
+    "support":0.1464646465,
+    "itemsets":[
+      "ML Model Training",
+      "Video Rendering"
+    ],
+    "length":2
+  },
+  {
+    "support":0.1464646465,
+    "itemsets":[
+      "Data Preprocessing",
+      "Video Rendering"
+    ],
+    "length":2
+  },
+  {
+    "support":0.1464646465,
+    "itemsets":[
+      "Web Scraping",
+      "Security Scan"
+    ],
+    "length":2
+  },
+  {
+    "support":0.1464646465,
+    "itemsets":[
+      "Database Backup",
+      "Security Scan"
+    ],
+    "length":2
+  },
+  {
+    "support":0.1414141414,
+    "itemsets":[
+      "Security Scan",
+      "Log Analysis"
+    ],
+    "length":2
+  },
+  {
+    "support":0.1363636364,
+    "itemsets":[
+      "Security Scan",
+      "Model Evaluation"
+    ],
+    "length":2
+  },
+  {
+    "support":0.1363636364,
+    "itemsets":[
+      "ETL Job",
+      "Video Rendering"
+    ],
+    "length":2
+  },
+  {
+    "support":0.1363636364,
+    "itemsets":[
+      "ETL Job",
+      "Web Scraping"
+    ],
+    "length":2
+  },
+  {
+    "support":0.1313131313,
+    "itemsets":[
+      "Video Rendering",
+      "Security Scan"
+    ],
+    "length":2
+  },
+  {
+    "support":0.1262626263,
+    "itemsets":[
+      "Database Backup",
+      "Model Evaluation"
+    ],
+    "length":2
+  },
+  {
+    "support":0.1262626263,
+    "itemsets":[
+      "ETL Job",
+      "Log Analysis"
+    ],
+    "length":2
+  },
+  {
+    "support":0.1262626263,
+    "itemsets":[
+      "Web Scraping",
+      "Video Rendering"
+    ],
+    "length":2
+  },
+  {
+    "support":0.1262626263,
+    "itemsets":[
+      "ETL Job",
+      "ML Model Training"
+    ],
+    "length":2
+  },
+  {
+    "support":0.1262626263,
+    "itemsets":[
+      "ETL Job",
+      "Model Evaluation"
+    ],
+    "length":2
+  },
+  {
+    "support":0.1161616162,
+    "itemsets":[
+      "Database Backup",
+      "Video Rendering"
+    ],
+    "length":2
+  },
+  {
+    "support":0.1111111111,
+    "itemsets":[
+      "Database Backup",
+      "Data Preprocessing"
+    ],
+    "length":2
+  },
+  {
+    "support":0.1111111111,
+    "itemsets":[
+      "Web Scraping",
+      "Log Analysis"
+    ],
+    "length":2
+  },
+  {
+    "support":0.1060606061,
+    "itemsets":[
+      "ML Model Training",
+      "Data Preprocessing",
+      "Report Generation"
+    ],
+    "length":3
+  },
+  {
+    "support":0.101010101,
+    "itemsets":[
+      "ML Model Training",
+      "Model Evaluation",
+      "Report Generation"
+    ],
+    "length":3
+  },
+  {
+    "support":0.095959596,
+    "itemsets":[
+      "ETL Job",
+      "Security Scan",
+      "Report Generation"
+    ],
+    "length":3
+  },
+  {
+    "support":0.095959596,
+    "itemsets":[
+      "ETL Job",
+      "Data Preprocessing",
+      "Security Scan"
+    ],
+    "length":3
+  },
+  {
+    "support":0.095959596,
+    "itemsets":[
+      "ETL Job",
+      "Database Backup"
+    ],
+    "length":2
+  },
+  {
+    "support":0.0909090909,
+    "itemsets":[
+      "Database Backup",
+      "ML Model Training",
+      "Security Scan"
+    ],
+    "length":3
+  },
+  {
+    "support":0.0858585859,
+    "itemsets":[
+      "Data Preprocessing",
+      "Log Analysis",
+      "Report Generation"
+    ],
+    "length":3
+  },
+  {
+    "support":0.0858585859,
+    "itemsets":[
+      "ETL Job",
+      "ML Model Training",
+      "Report Generation"
+    ],
+    "length":3
+  },
+  {
+    "support":0.0808080808,
+    "itemsets":[
+      "ML Model Training",
+      "Video Rendering",
+      "Report Generation"
+    ],
+    "length":3
+  },
+  {
+    "support":0.0808080808,
+    "itemsets":[
+      "ETL Job",
+      "Video Rendering",
+      "Report Generation"
+    ],
+    "length":3
+  },
+  {
+    "support":0.0808080808,
+    "itemsets":[
+      "Database Backup",
+      "ML Model Training",
+      "Report Generation"
+    ],
+    "length":3
+  },
+  {
+    "support":0.0808080808,
+    "itemsets":[
+      "Database Backup",
+      "ML Model Training",
+      "Model Evaluation"
+    ],
+    "length":3
+  },
+  {
+    "support":0.0808080808,
+    "itemsets":[
+      "ML Model Training",
+      "Web Scraping",
+      "Data Preprocessing"
+    ],
+    "length":3
+  },
+  {
+    "support":0.0808080808,
+    "itemsets":[
+      "ETL Job",
+      "Data Preprocessing",
+      "Report Generation"
+    ],
+    "length":3
+  },
+  {
+    "support":0.0757575758,
+    "itemsets":[
+      "Data Preprocessing",
+      "Log Analysis",
+      "Model Evaluation"
+    ],
+    "length":3
+  },
+  {
+    "support":0.0757575758,
+    "itemsets":[
+      "Data Preprocessing",
+      "Security Scan",
+      "Report Generation"
+    ],
+    "length":3
+  },
+  {
+    "support":0.0757575758,
+    "itemsets":[
+      "Web Scraping",
+      "ML Model Training",
+      "Security Scan"
+    ],
+    "length":3
+  },
+  {
+    "support":0.0757575758,
+    "itemsets":[
+      "ML Model Training",
+      "Log Analysis",
+      "Model Evaluation"
+    ],
+    "length":3
+  },
+  {
+    "support":0.0757575758,
+    "itemsets":[
+      "Web Scraping",
+      "Data Preprocessing",
+      "Report Generation"
+    ],
+    "length":3
+  },
+  {
+    "support":0.0757575758,
+    "itemsets":[
+      "ETL Job",
+      "Log Analysis",
+      "Report Generation"
+    ],
+    "length":3
+  },
+  {
+    "support":0.0707070707,
+    "itemsets":[
+      "ML Model Training",
+      "Data Preprocessing",
+      "Security Scan"
+    ],
+    "length":3
+  },
+  {
+    "support":0.0707070707,
+    "itemsets":[
+      "Database Backup",
+      "ML Model Training",
+      "Log Analysis"
+    ],
+    "length":3
+  },
+  {
+    "support":0.0707070707,
+    "itemsets":[
+      "Data Preprocessing",
+      "Security Scan",
+      "Log Analysis"
+    ],
+    "length":3
+  },
+  {
+    "support":0.0707070707,
+    "itemsets":[
+      "ML Model Training",
+      "Security Scan",
+      "Report Generation"
+    ],
+    "length":3
+  },
+  {
+    "support":0.0707070707,
+    "itemsets":[
+      "ML Model Training",
+      "Video Rendering",
+      "Model Evaluation"
+    ],
+    "length":3
+  },
+  {
+    "support":0.0707070707,
+    "itemsets":[
+      "Video Rendering",
+      "Log Analysis",
+      "Report Generation"
+    ],
+    "length":3
+  },
+  {
+    "support":0.0707070707,
+    "itemsets":[
+      "Model Evaluation",
+      "Video Rendering",
+      "Log Analysis"
+    ],
+    "length":3
+  },
+  {
+    "support":0.0707070707,
+    "itemsets":[
+      "ETL Job",
+      "Video Rendering",
+      "Security Scan"
+    ],
+    "length":3
+  },
+  {
+    "support":0.0707070707,
+    "itemsets":[
+      "ETL Job",
+      "Web Scraping",
+      "Report Generation"
+    ],
+    "length":3
+  },
+  {
+    "support":0.0707070707,
+    "itemsets":[
+      "ETL Job",
+      "Data Preprocessing",
+      "Log Analysis"
+    ],
+    "length":3
+  },
+  {
+    "support":0.0707070707,
+    "itemsets":[
+      "Database Backup",
+      "ML Model Training",
+      "Web Scraping"
+    ],
+    "length":3
+  },
+  {
+    "support":0.0707070707,
+    "itemsets":[
+      "ETL Job",
+      "ML Model Training",
+      "Security Scan"
+    ],
+    "length":3
+  },
+  {
+    "support":0.0707070707,
+    "itemsets":[
+      "Data Preprocessing",
+      "Model Evaluation",
+      "Report Generation"
+    ],
+    "length":3
+  },
+  {
+    "support":0.0707070707,
+    "itemsets":[
+      "ETL Job",
+      "Web Scraping",
+      "Data Preprocessing"
+    ],
+    "length":3
+  },
+  {
+    "support":0.0656565657,
+    "itemsets":[
+      "Data Preprocessing",
+      "Video Rendering",
+      "Log Analysis"
+    ],
+    "length":3
+  },
+  {
+    "support":0.0656565657,
+    "itemsets":[
+      "ML Model Training",
+      "Data Preprocessing",
+      "Log Analysis"
+    ],
+    "length":3
+  },
+  {
+    "support":0.0656565657,
+    "itemsets":[
+      "Data Preprocessing",
+      "Video Rendering",
+      "Security Scan"
+    ],
+    "length":3
+  },
+  {
+    "support":0.0656565657,
+    "itemsets":[
+      "Database Backup",
+      "Log Analysis",
+      "Report Generation"
+    ],
+    "length":3
+  },
+  {
+    "support":0.0656565657,
+    "itemsets":[
+      "ML Model Training",
+      "Log Analysis",
+      "Report Generation"
+    ],
+    "length":3
+  },
+  {
+    "support":0.0656565657,
+    "itemsets":[
+      "Data Preprocessing",
+      "Video Rendering",
+      "Report Generation"
+    ],
+    "length":3
+  },
+  {
+    "support":0.0656565657,
+    "itemsets":[
+      "Web Scraping",
+      "ML Model Training",
+      "Report Generation"
+    ],
+    "length":3
+  },
+  {
+    "support":0.0656565657,
+    "itemsets":[
+      "ETL Job",
+      "Data Preprocessing",
+      "Video Rendering"
+    ],
+    "length":3
+  },
+  {
+    "support":0.0656565657,
+    "itemsets":[
+      "Web Scraping",
+      "Data Preprocessing",
+      "Security Scan"
+    ],
+    "length":3
+  },
+  {
+    "support":0.0656565657,
+    "itemsets":[
+      "ETL Job",
+      "Video Rendering",
+      "Log Analysis"
+    ],
+    "length":3
+  },
+  {
+    "support":0.0656565657,
+    "itemsets":[
+      "ETL Job",
+      "Web Scraping",
+      "Security Scan"
+    ],
+    "length":3
+  },
+  {
+    "support":0.0606060606,
+    "itemsets":[
+      "ML Model Training",
+      "Security Scan",
+      "Log Analysis"
+    ],
+    "length":3
+  },
+  {
+    "support":0.0606060606,
+    "itemsets":[
+      "Security Scan",
+      "Log Analysis",
+      "Report Generation"
+    ],
+    "length":3
+  },
+  {
+    "support":0.0606060606,
+    "itemsets":[
+      "ML Model Training",
+      "Database Backup",
+      "Data Preprocessing"
+    ],
+    "length":3
+  },
+  {
+    "support":0.0606060606,
+    "itemsets":[
+      "Database Backup",
+      "Security Scan",
+      "Web Scraping"
+    ],
+    "length":3
+  },
+  {
+    "support":0.0606060606,
+    "itemsets":[
+      "Database Backup",
+      "Report Generation",
+      "Web Scraping"
+    ],
+    "length":3
+  },
+  {
+    "support":0.0606060606,
+    "itemsets":[
+      "Database Backup",
+      "ML Model Training",
+      "Video Rendering"
+    ],
+    "length":3
+  },
+  {
+    "support":0.0606060606,
+    "itemsets":[
+      "Video Rendering",
+      "Model Evaluation",
+      "Report Generation"
+    ],
+    "length":3
+  },
+  {
+    "support":0.0606060606,
+    "itemsets":[
+      "Web Scraping",
+      "Data Preprocessing",
+      "Log Analysis"
+    ],
+    "length":3
+  },
+  {
+    "support":0.0606060606,
+    "itemsets":[
+      "Web Scraping",
+      "Model Evaluation",
+      "Report Generation"
+    ],
+    "length":3
+  },
+  {
+    "support":0.0555555556,
+    "itemsets":[
+      "Web Scraping",
+      "Data Preprocessing",
+      "Model Evaluation"
+    ],
+    "length":3
+  },
+  {
+    "support":0.0555555556,
+    "itemsets":[
+      "Web Scraping",
+      "ML Model Training",
+      "Model Evaluation"
+    ],
+    "length":3
+  },
+  {
+    "support":0.0555555556,
+    "itemsets":[
+      "Data Preprocessing",
+      "Video Rendering",
+      "Model Evaluation"
+    ],
+    "length":3
+  },
+  {
+    "support":0.0555555556,
+    "itemsets":[
+      "Database Backup",
+      "Data Preprocessing",
+      "Log Analysis"
+    ],
+    "length":3
+  },
+  {
+    "support":0.0555555556,
+    "itemsets":[
+      "Video Rendering",
+      "Log Analysis",
+      "Security Scan"
+    ],
+    "length":3
+  },
+  {
+    "support":0.0555555556,
+    "itemsets":[
+      "Web Scraping",
+      "Security Scan",
+      "Model Evaluation"
+    ],
+    "length":3
+  },
+  {
+    "support":0.0555555556,
+    "itemsets":[
+      "Video Rendering",
+      "Security Scan",
+      "Report Generation"
+    ],
+    "length":3
+  },
+  {
+    "support":0.0555555556,
+    "itemsets":[
+      "ETL Job",
+      "Database Backup",
+      "Security Scan"
+    ],
+    "length":3
+  },
+  {
+    "support":0.0555555556,
+    "itemsets":[
+      "Web Scraping",
+      "Security Scan",
+      "Report Generation"
+    ],
+    "length":3
+  },
+  {
+    "support":0.0555555556,
+    "itemsets":[
+      "Database Backup",
+      "Data Preprocessing",
+      "Security Scan"
+    ],
+    "length":3
+  },
+  {
+    "support":0.0555555556,
+    "itemsets":[
+      "Database Backup",
+      "Security Scan",
+      "Log Analysis"
+    ],
+    "length":3
+  },
+  {
+    "support":0.0555555556,
+    "itemsets":[
+      "ETL Job",
+      "Data Preprocessing",
+      "Model Evaluation"
+    ],
+    "length":3
+  },
+  {
+    "support":0.0555555556,
+    "itemsets":[
+      "ETL Job",
+      "Model Evaluation",
+      "Report Generation"
+    ],
+    "length":3
+  },
+  {
+    "support":0.0555555556,
+    "itemsets":[
+      "ETL Job",
+      "Web Scraping",
+      "ML Model Training"
+    ],
+    "length":3
+  },
+  {
+    "support":0.0555555556,
+    "itemsets":[
+      "ETL Job",
+      "ML Model Training",
+      "Data Preprocessing"
+    ],
+    "length":3
+  },
+  {
+    "support":0.0555555556,
+    "itemsets":[
+      "ETL Job",
+      "Security Scan",
+      "Log Analysis"
+    ],
+    "length":3
+  },
+  {
+    "support":0.0555555556,
+    "itemsets":[
+      "ETL Job",
+      "Database Backup",
+      "ML Model Training"
+    ],
+    "length":3
+  },
+  {
+    "support":0.0555555556,
+    "itemsets":[
+      "ETL Job",
+      "ML Model Training",
+      "Log Analysis"
+    ],
+    "length":3
+  },
+  {
+    "support":0.0555555556,
+    "itemsets":[
+      "Database Backup",
+      "Security Scan",
+      "Report Generation"
+    ],
+    "length":3
+  },
+  {
+    "support":0.0505050505,
+    "itemsets":[
+      "ML Model Training",
+      "Data Preprocessing",
+      "Model Evaluation"
+    ],
+    "length":3
+  },
+  {
+    "support":0.0505050505,
+    "itemsets":[
+      "Database Backup",
+      "Model Evaluation",
+      "Report Generation"
+    ],
+    "length":3
+  },
+  {
+    "support":0.0505050505,
+    "itemsets":[
+      "Database Backup",
+      "Model Evaluation",
+      "Log Analysis"
+    ],
+    "length":3
+  },
+  {
+    "support":0.0505050505,
+    "itemsets":[
+      "Database Backup",
+      "Video Rendering",
+      "Log Analysis"
+    ],
+    "length":3
+  },
+  {
+    "support":0.0505050505,
+    "itemsets":[
+      "Web Scraping",
+      "Data Preprocessing",
+      "Video Rendering"
+    ],
+    "length":3
+  },
+  {
+    "support":0.0505050505,
+    "itemsets":[
+      "ML Model Training",
+      "Security Scan",
+      "Model Evaluation"
+    ],
+    "length":3
+  },
+  {
+    "support":0.0505050505,
+    "itemsets":[
+      "Database Backup",
+      "Model Evaluation",
+      "Web Scraping"
+    ],
+    "length":3
+  },
+  {
+    "support":0.0505050505,
+    "itemsets":[
+      "Web Scraping",
+      "Video Rendering",
+      "Log Analysis"
+    ],
+    "length":3
+  },
+  {
+    "support":0.0505050505,
+    "itemsets":[
+      "ETL Job",
+      "Security Scan",
+      "Model Evaluation"
+    ],
+    "length":3
+  },
+  {
+    "support":0.0505050505,
+    "itemsets":[
+      "ETL Job",
+      "Video Rendering",
+      "Model Evaluation"
+    ],
+    "length":3
+  },
+  {
+    "support":0.0505050505,
+    "itemsets":[
+      "Model Evaluation",
+      "Log Analysis",
+      "Report Generation"
+    ],
+    "length":3
+  },
+  {
+    "support":0.0505050505,
+    "itemsets":[
+      "Web Scraping",
+      "ML Model Training",
+      "Log Analysis"
+    ],
+    "length":3
+  },
+  {
+    "support":0.0505050505,
+    "itemsets":[
+      "Database Backup",
+      "Data Preprocessing",
+      "Report Generation"
+    ],
+    "length":3
+  }
+]

@@ -1,0 +1,26 @@
+node_modules/
+.DS_Store
+.env
+*.log
+*.tmp
+
+
+/backend/node_modules/
+/backend/__pycache__/ # Ignore Python cache files
+/backend/*.pyc        # Ignore compiled Python files
+
+
+/client/node_modules/
+.client/.next/         # Ignore Next.js build artifacts
+/client/.env.local     # Ignore local environment files
+/client/.env.development.local
+/client/.env.production.local
+/client/out/           # Ignore Next.js static export folder
+/client/.vercel/       # Ignore Vercel deployment files
+/client/.turbo/        # Ignore TurboRepo cache files
+
+
+.vscode/
+.idea/
+*.swp
+*.swo
