@@ -18,7 +18,7 @@ By analyzing job tags and their associated resource requirements, the system rec
 - **Backend:** Node.js (Express.js)
 - **Data Processing:** Python (pandas, scikit-learn, mlxtend, beautifulsoup)
 - **Search Engine:** TF-IDF (scikit-learn)
-- **Database:** JSON and CSV files
+- **Database:** JSON and CSV files for now
 - **APIs:** RESTful APIs for data retrieval and processing
 
 ---
