@@ -4,6 +4,8 @@
 
 Franz Matugas
 
+[Quick UI Video Demo](https://youtu.be/P-eaQw5RU8Y)
+
 ## Executive Summary
 
 This project, inspired by Nutanix Prism, is a cloud workload analysis and resource recommendation system. It leverages **association rule mining**, **frequent pattern analysis**, and a **TF-IDF search engine** to provide intelligent insights into cloud job workloads.
